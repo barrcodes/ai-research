@@ -1,11 +1,10 @@
----
-title: Microsoft says its newest AI chip Maia 200 is 3 times more powerful than Google's TPU and Amazon's Trainium processor
-source: LiveScience
-url: https://www.livescience.com/technology/artificial-intelligence/microsoft-says-its-newest-ai-chip-maia-200-is-3-times-more-powerful-than-googles-tpu-and-amazons-trainium-processor
-researched_at: 2026-01-26T00:00:00Z
----
-
 # Microsoft Maia 200 Chip: Inference Powerhouse with 3x Competitive Advantage
+
+| | |
+|---|---|
+| **Source** | LiveScience |
+| **URL** | [livescience.com/technology/artificial-intelligence/microsoft-says-its-newest-ai-chip-maia-200-is-3-times-more-powerful-than-googles-tpu-and-amazons-trainium-processor](https://www.livescience.com/technology/artificial-intelligence/microsoft-says-its-newest-ai-chip-maia-200-is-3-times-more-powerful-than-googles-tpu-and-amazons-trainium-processor) |
+| **Researched** | 2026-01-26 |
 
 ## Overview
 

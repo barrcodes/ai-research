@@ -1,11 +1,10 @@
----
-title: "AI2: Open Coding Agents Research"
-source: Allen Institute for AI (AI2)
-url: https://allenai.org/blog/open-coding-agents
-researched_at: 2026-01-28T00:00:00Z
----
-
 # AI2: Open Coding Agents Research
+
+| | |
+|---|---|
+| **Source** | Allen Institute for AI (AI2) |
+| **URL** | [allenai.org/blog/open-coding-agents](https://allenai.org/blog/open-coding-agents) |
+| **Researched** | 2026-01-28 |
 
 ## Overview
 

@@ -1,11 +1,10 @@
----
-title: Sam Altman and CEOs on Minnesota ICE Enforcement Policy
-source: New York Times / Bloomberg / Multiple sources
-url: https://www.nytimes.com/2026/01/27/business/dealbook/altman-openai-minnesota.html
-researched_at: 2026-01-28T00:00:00Z
----
-
 # Sam Altman and CEOs on Minnesota ICE Enforcement Policy
+
+| | |
+|---|---|
+| **Source** | New York Times / Bloomberg / Multiple sources |
+| **URL** | [nytimes.com/2026/01/27/business/dealbook/altman-openai-minnesota](https://www.nytimes.com/2026/01/27/business/dealbook/altman-openai-minnesota.html) |
+| **Researched** | 2026-01-28 |
 
 ## Overview
 

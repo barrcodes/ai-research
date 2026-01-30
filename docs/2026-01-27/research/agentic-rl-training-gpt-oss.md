@@ -1,11 +1,10 @@
----
-title: Unlocking Agentic RL Training for GPT-OSS - A Practical Retrospective
-source: Hugging Face Blog (LinkedIn)
-url: https://huggingface.co/blog/LinkedIn/gpt-oss-agentic-rl
-researched_at: 2026-01-27T00:00:00Z
----
-
 # Unlocking Agentic RL Training for GPT-OSS
+
+| | |
+|---|---|
+| **Source** | Hugging Face Blog (LinkedIn) |
+| **URL** | [huggingface.co/blog/LinkedIn/gpt-oss-agentic-rl](https://huggingface.co/blog/LinkedIn/gpt-oss-agentic-rl) |
+| **Researched** | 2026-01-27 |
 
 ## Overview
 

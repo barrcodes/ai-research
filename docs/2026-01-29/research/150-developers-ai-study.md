@@ -1,11 +1,10 @@
----
-title: We Studied 150 Developers Using AI (Here's What's Changed)
-source: Anthropic + METR Research
-url: https://www.anthropic.com/research/how-ai-is-transforming-work-at-anthropic
-researched_at: 2026-01-29T00:00:00Z
----
-
 # We Studied 150 Developers Using AI (Here's What's Changed)
+
+| | |
+|---|---|
+| **Source** | Anthropic + METR Research |
+| **URL** | [anthropic.com/research/how-ai-is-transforming-work-at-anthropic](https://www.anthropic.com/research/how-ai-is-transforming-work-at-anthropic) |
+| **Researched** | 2026-01-29 |
 
 ## Overview
 

@@ -1,11 +1,10 @@
----
-title: Sandbox Agent SDK - Unified API for Coding Agents
-source: GitHub (rivet-dev/sandbox-agent)
-url: https://github.com/rivet-dev/sandbox-agent
-researched_at: 2026-01-28T00:00:00Z
----
-
 # Sandbox Agent SDK: Unified API for Coding Agents
+
+| | |
+|---|---|
+| **Source** | GitHub (rivet-dev/sandbox-agent) |
+| **URL** | [github.com/rivet-dev/sandbox-agent](https://github.com/rivet-dev/sandbox-agent) |
+| **Researched** | 2026-01-28 |
 
 ## Overview
 

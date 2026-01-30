@@ -1,11 +1,10 @@
----
-title: We Got Claude to Build CUDA Kernels and teach open models!
-source: Hugging Face Blog
-url: https://huggingface.co/blog/upskill
-researched_at: 2026-01-29T00:00:00Z
----
-
 # We Got Claude to Build CUDA Kernels and teach open models!
+
+| | |
+|---|---|
+| **Source** | Hugging Face Blog |
+| **URL** | [huggingface.co/blog/upskill](https://huggingface.co/blog/upskill) |
+| **Researched** | 2026-01-29 |
 
 ## Overview
 

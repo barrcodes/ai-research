@@ -1,11 +1,10 @@
----
-title: Clawdbot - Open Source Personal AI Assistant for Local-First Automation
-source: MarkTechPost
-url: https://www.marktechpost.com/2026/01/25/what-is-clawdbot-how-a-local-first-agent-stack-turns-chats-into-real-automations/
-researched_at: 2026-01-26T00:00:00Z
----
-
 # Clawdbot: Local-First AI Agent Architecture
+
+| | |
+|---|---|
+| **Source** | MarkTechPost |
+| **URL** | [marktechpost.com/2026/01/25/what-is-clawdbot-how-a-local-first-agent-stack-turns-chats-into-real-automations/](https://www.marktechpost.com/2026/01/25/what-is-clawdbot-how-a-local-first-agent-stack-turns-chats-into-real-automations/) |
+| **Researched** | 2026-01-26 |
 
 ## Overview
 

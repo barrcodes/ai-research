@@ -1,11 +1,10 @@
----
-title: Optimizing GLM4-MoE for Production - 65% Faster TTFT with SGLang
-source: Hugging Face Blog / Novita AI
-url: https://huggingface.co/blog/novita/sglang-glm4-moe
-researched_at: 2026-01-27T00:00:00Z
----
-
 # Optimizing GLM4-MoE for Production: 65% Faster TTFT with SGLang
+
+| | |
+|---|---|
+| **Source** | Hugging Face Blog / Novita AI |
+| **URL** | [huggingface.co/blog/novita/sglang-glm4-moe](https://huggingface.co/blog/novita/sglang-glm4-moe) |
+| **Researched** | 2026-01-27 |
 
 ## Overview
 

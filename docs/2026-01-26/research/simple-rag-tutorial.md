@@ -1,11 +1,10 @@
----
-title: Code a Simple RAG from Scratch
-source: Hugging Face Blog (ngxson)
-url: https://huggingface.co/blog/ngxson/make-your-own-rag
-researched_at: 2026-01-26T00:00:00Z
----
-
 # Code a Simple RAG from Scratch
+
+| | |
+|---|---|
+| **Source** | Hugging Face Blog (ngxson) |
+| **URL** | [huggingface.co/blog/ngxson/make-your-own-rag](https://huggingface.co/blog/ngxson/make-your-own-rag) |
+| **Researched** | 2026-01-26 |
 
 ## Overview
 

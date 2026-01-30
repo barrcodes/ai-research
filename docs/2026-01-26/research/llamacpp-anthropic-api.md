@@ -1,11 +1,10 @@
----
-title: New in llama.cpp: Anthropic Messages API
-source: Hugging Face Blog (GGML-org)
-url: https://huggingface.co/blog/ggml-org/anthropic-messages-api-in-llamacpp
-researched_at: 2026-01-26T00:00:00Z
----
-
 # New in llama.cpp: Anthropic Messages API
+
+| | |
+|---|---|
+| **Source** | Hugging Face Blog (GGML-org) |
+| **URL** | [huggingface.co/blog/ggml-org/anthropic-messages-api-in-llamacpp](https://huggingface.co/blog/ggml-org/anthropic-messages-api-in-llamacpp) |
+| **Researched** | 2026-01-26 |
 
 ## Overview
 

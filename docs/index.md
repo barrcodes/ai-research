@@ -2,6 +2,10 @@
 
 ## Current Week
 
+### [2026-01-30](./2026-01-30/index.md)
+
+NVIDIA QAD achieves 99.4% accuracy on 4-bit inference, enabling 30B+ model deployment on constrained hardware. Anthropic research quantifies AI coding assistance skill erosion (17% gap) with mitigation via explanation-seeking patterns. Vercel's AGENTS.md benchmarks show static context injection (100%) dramatically outperforms dynamic retrieval (53-79%). OpenAI's in-house data agent reveals canonical metrics architecture for 600+ petabyte data governance. Agentic security concerns intensify: prompt injection attacks on autonomous agents, Pentagon-Anthropic governance clash. Claude Code tooling matures with PropelKit context management, ClaudeDesk v3.0 orchestration GUI, and reusable Java skill libraries. DeepMind's Project Genie and D4RT advance interactive world models. 11 sources, 24 articles researched.
+
 ### [2026-01-29](./2026-01-29/index.md)
 
 Enterprise Claude adoption accelerates with ServiceNow deployment (80B+ workflows), UK Government agentic AI deployment. Multi-agent coordination patterns emerge (LAD-A2A discovery protocol). Claude Code case studies show architectural shift from code generation to context-aware analysis. LLM infrastructure matures: Trinity Large 400B MoE, ShapedQL for RAG pipelines, Heimdall observability for MCP servers. Security infrastructure becomes mandatory for agentic deployments. 11 sources, 17 articles researched.

@@ -1,11 +1,10 @@
----
-title: The Adolescence of Technology
-source: Dario Amodei (Anthropic CEO)
-url: https://www.darioamodei.com/essay/the-adolescence-of-technology
-researched_at: 2026-01-26T00:00:00Z
----
-
 # The Adolescence of Technology
+
+| | |
+|---|---|
+| **Source** | Dario Amodei (Anthropic CEO) |
+| **URL** | [darioamodei.com/essay/the-adolescence-of-technology](https://www.darioamodei.com/essay/the-adolescence-of-technology) |
+| **Researched** | 2026-01-26 |
 
 ## Overview
 Amodei argues we're entering a critical 1-2 year window where superhuman AI systems will arrive, requiring civilizational-scale preparation. Rather than either catastrophe or inevitability framing, he presents a pragmatic risk taxonomy and Anthropic's operational approach to building safe capable systems. The essay treats AI as powerful but immature—requiring guidance rather than either blind deployment or prohibition.

@@ -1,11 +1,10 @@
----
-title: FACTS Benchmark Suite - Systematically evaluating the factuality of large language models
-source: Google DeepMind
-url: https://deepmind.google/blog/facts-benchmark-suite-systematically-evaluating-the-factuality-of-large-language-models/
-researched_at: 2026-01-26T00:00:00Z
----
-
 # FACTS Benchmark Suite: Systematically Evaluating LLM Factuality
+
+| | |
+|---|---|
+| **Source** | Google DeepMind |
+| **URL** | [deepmind.google/blog/facts-benchmark-suite-systematically-evaluating-the-factuality-of-large-language-models](https://deepmind.google/blog/facts-benchmark-suite-systematically-evaluating-the-factuality-of-large-language-models/) |
+| **Researched** | 2026-01-26 |
 
 ## Overview
 

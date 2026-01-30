@@ -1,12 +1,10 @@
----
-title: Claude in Excel is now available on Pro plans
-source: Reddit r/ClaudeAI
-url: https://www.reddit.com/r/ClaudeAI/
-researched_at: 2026-01-26T00:00:00Z
-fetch_method: web-research
----
-
 # Claude in Excel is now available on Pro plans
+
+| | |
+|---|---|
+| **Source** | Reddit r/ClaudeAI |
+| **URL** | [reddit.com/r/ClaudeAI](https://www.reddit.com/r/ClaudeAI/) |
+| **Researched** | 2026-01-26 |
 
 ## Overview
 As of January 24, 2026, Anthropic has expanded Claude in Excel access to Pro plan subscribers, bringing AI-powered spreadsheet assistance to a broader audience. The integration delivers Claude Opus 4.5's capabilities directly into Excel via a sidebar chat interface, enabling professionals to accelerate financial modeling, data analysis, and scenario planning without leaving their spreadsheets. This democratization of the feature across subscription tiers represents a significant expansion of Claude's productivity tooling strategy.

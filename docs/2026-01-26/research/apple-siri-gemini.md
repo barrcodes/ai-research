@@ -1,11 +1,10 @@
----
-title: Apple will reportedly unveil its Gemini-powered Siri assistant in February
-source: TechCrunch
-url: https://techcrunch.com/2026/01/25/apple-will-reportedly-unveil-its-gemini-powered-siri-assistant-in-february/
-researched_at: 2026-01-26T00:00:00Z
----
-
 # Apple's Gemini-Powered Siri Assistant
+
+| | |
+|---|---|
+| **Source** | TechCrunch |
+| **URL** | [techcrunch.com/2026/01/25/apple-will-reportedly-unveil-its-gemini-powered-siri-assistant-in-february/](https://techcrunch.com/2026/01/25/apple-will-reportedly-unveil-its-gemini-powered-siri-assistant-in-february/) |
+| **Researched** | 2026-01-26 |
 
 ## Overview
 

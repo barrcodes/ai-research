@@ -1,13 +1,10 @@
----
-title: I built a "hive mind" for Claude Code - 7 agents sharing memory and talking to each other
-source: Reddit r/LocalLLaMA
-url: https://www.reddit.com/r/LocalLLaMA/
-researched_at: 2026-01-26T00:00:00Z
-fetch_method: web-search
-note: Specific Reddit post not located; summary based on related architecture research
----
-
 # Building a "Hive Mind" for Claude Code: Multi-Agent Coordination Architecture
+
+| | |
+|---|---|
+| **Source** | Reddit r/LocalLLaMA |
+| **URL** | [reddit.com/r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/) |
+| **Researched** | 2026-01-26 |
 
 ## Overview
 

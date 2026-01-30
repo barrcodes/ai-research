@@ -1,11 +1,10 @@
----
-title: ServiceNow chooses Claude to power customer apps and increase internal productivity
-source: Anthropic
-url: https://www.anthropic.com/news/servicenow-anthropic-claude
-researched_at: 2026-01-29T00:00:00Z
----
-
 # ServiceNow chooses Claude to power customer apps and increase internal productivity
+
+| | |
+|---|---|
+| **Source** | Anthropic |
+| **URL** | [anthropic.com/news/servicenow-anthropic-claude](https://www.anthropic.com/news/servicenow-anthropic-claude) |
+| **Researched** | 2026-01-29 |
 
 ## Overview
 

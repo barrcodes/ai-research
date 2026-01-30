@@ -1,11 +1,10 @@
----
-title: Introducing Labs
-source: Anthropic
-url: https://www.anthropic.com/news/introducing-anthropic-labs
-researched_at: 2026-01-26T00:00:00Z
----
-
 # Introducing Labs
+
+| | |
+|---|---|
+| **Source** | Anthropic |
+| **URL** | [anthropic.com/news/introducing-anthropic-labs](https://www.anthropic.com/news/introducing-anthropic-labs) |
+| **Researched** | 2026-01-26 |
 
 ## Overview
 Anthropic Labs is an expanded organizational unit focused on incubating experimental products at the frontier of Claude's capabilities. It operates as a structured innovation pipeline: experiment → test with early adopters → scale to enterprise. This represents a formalized approach to what has already delivered billion-dollar products.

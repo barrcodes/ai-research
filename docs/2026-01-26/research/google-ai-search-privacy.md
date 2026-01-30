@@ -1,11 +1,10 @@
----
-title: Google ties AI Search to Gmail and Photos, raising new privacy questions
-source: Help Net Security
-url: https://www.helpnetsecurity.com/2026/01/26/google-ai-mode-personal-intelligence/
-researched_at: 2026-01-26T00:00:00Z
----
-
 # Google ties AI Search to Gmail and Photos, raising new privacy questions
+
+| | |
+|---|---|
+| **Source** | Help Net Security |
+| **URL** | [helpnetsecurity.com/2026/01/26/google-ai-mode-personal-intelligence/](https://www.helpnetsecurity.com/2026/01/26/google-ai-mode-personal-intelligence/) |
+| **Researched** | 2026-01-26 |
 
 ## Overview
 

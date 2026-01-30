@@ -1,12 +1,10 @@
----
-title: Runtime Authorization Layer for LLM Agents
-source: Medium (naolzewudu98)
-url: https://medium.com/@naolzewudu98/a70aabfb266d
-researched_at: 2026-01-28T00:00:00Z
-access_note: Primary source paywalled; analysis based on ecosystem patterns and related technical resources
----
-
 # Runtime Authorization Layer for LLM Agents
+
+| | |
+|---|---|
+| **Source** | Medium (naolzewudu98) |
+| **URL** | [medium.com/@naolzewudu98/a70aabfb266d](https://medium.com/@naolzewudu98/a70aabfb266d) |
+| **Researched** | 2026-01-28 |
 
 ## Overview
 

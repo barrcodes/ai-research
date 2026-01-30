@@ -1,12 +1,10 @@
----
-title: Claude API Cost Optimization: 94.5% Reduction via File Tiering
-source: Reddit r/ClaudeAI
-url: https://old.reddit.com/r/ClaudeAI/comments/1qp9ve9/we_reduced_claude_api_costs_by_945_using_a_file/
-researched_at: 2026-01-28T00:00:00Z
-fetch_method: concurrent-browser
----
-
 # Claude API Cost Optimization: 94.5% Reduction via File Tiering
+
+| | |
+|---|---|
+| **Source** | Reddit r/ClaudeAI |
+| **URL** | [old.reddit.com/r/ClaudeAI/comments/1qp9ve9/we_reduced_claude_api_costs_by_945_using_a_file/](https://old.reddit.com/r/ClaudeAI/comments/1qp9ve9/we_reduced_claude_api_costs_by_945_using_a_file/) |
+| **Researched** | 2026-01-28 |
 
 ## Overview
 

@@ -1,11 +1,10 @@
----
-title: Philips AI-Ready Advertising Boards (Signage 5000 Series)
-source: PC Guide / PPDS
-url: https://www.pcguide.com/news/philips-unveils-first-ai-ready-advertising-boards-digital-signage-ranging-from-32-to-98-to-be-demoed-soon/
-researched_at: 2026-01-28T00:00:00Z
----
-
 # Philips AI-Ready Advertising Boards
+
+| | |
+|---|---|
+| **Source** | PC Guide / PPDS |
+| **URL** | [pcguide.com/news/philips-unveils-first-ai-ready-advertising-boards-digital-signage-ranging-from-32-to-98-to-be-demoed-soon](https://www.pcguide.com/news/philips-unveils-first-ai-ready-advertising-boards-digital-signage-ranging-from-32-to-98-to-be-demoed-soon/) |
+| **Researched** | 2026-01-28 |
 
 ## Overview
 

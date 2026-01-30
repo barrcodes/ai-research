@@ -1,12 +1,10 @@
----
-title: "~60GB models on coding: GLM 4.7 Flash vs. GPT OSS 120B vs. Qwen3 Coder 30B"
-source: Reddit r/LocalLLaMA
-url: https://www.reddit.com/r/LocalLLaMA/
-researched_at: 2026-01-26T00:00:00Z
-fetch_method: web-search
----
-
 # ~60GB Models on Coding: GLM 4.7 Flash vs. GPT OSS 120B vs. Qwen3 Coder 30B
+
+| | |
+|---|---|
+| **Source** | Reddit r/LocalLLaMA |
+| **URL** | [reddit.com/r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/) |
+| **Researched** | 2026-01-26 |
 
 ## Overview
 

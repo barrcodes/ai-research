@@ -1,12 +1,10 @@
----
-title: Introducing ChatGPT Health
-source: OpenAI
-url: https://openai.com/index/introducing-chatgpt-health/
-researched_at: 2026-01-26T00:00:00Z
-fetch_method: web-search
----
-
 # Introducing ChatGPT Health
+
+| | |
+|---|---|
+| **Source** | OpenAI |
+| **URL** | [openai.com/index/introducing-chatgpt-health/](https://openai.com/index/introducing-chatgpt-health/) |
+| **Researched** | 2026-01-26 |
 
 ## Overview
 

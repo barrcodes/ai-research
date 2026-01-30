@@ -1,11 +1,10 @@
----
-title: Decart Lucy 2 - Real-Time AI Video Transformation
-source: Forbes / The Decoder
-url: https://www.forbes.com/sites/charliefink/2026/01/27/decarts-new-lucy-2-generative-ai-video-model-pushes-generative-video-into-real-time/
-researched_at: 2026-01-28T00:00:00Z
----
-
 # Decart Lucy 2: Real-Time AI Video Transformation
+
+| | |
+|---|---|
+| **Source** | Forbes / The Decoder |
+| **URL** | [forbes.com/sites/charliefink/2026/01/27/decarts-new-lucy-2-generative-ai-video-model-pushes-generative-video-into-real-time/](https://www.forbes.com/sites/charliefink/2026/01/27/decarts-new-lucy-2-generative-ai-video-model-pushes-generative-video-into-real-time/) |
+| **Researched** | 2026-01-28 |
 
 ## Overview
 

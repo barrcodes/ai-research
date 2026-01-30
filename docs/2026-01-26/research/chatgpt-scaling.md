@@ -1,12 +1,10 @@
----
-title: Scaling PostgreSQL to power 800 million ChatGPT users
-source: OpenAI
-url: https://openai.com/index/scaling-postgresql/
-researched_at: 2026-01-26T00:00:00Z
-fetch_method: web-research
----
-
 # Scaling PostgreSQL to power 800 million ChatGPT users
+
+| | |
+|---|---|
+| **Source** | OpenAI |
+| **URL** | [openai.com/index/scaling-postgresql/](https://openai.com/index/scaling-postgresql/) |
+| **Researched** | 2026-01-26 |
 
 ## Overview
 

@@ -1,11 +1,10 @@
----
-title: Gemma Scope 2 - helping the AI safety community deepen understanding of complex language model behavior
-source: DeepMind
-url: https://deepmind.google/blog/gemma-scope-2-helping-the-ai-safety-community-deepen-understanding-of-complex-language-model-behavior/
-researched_at: 2026-01-26T00:00:00Z
----
-
 # Gemma Scope 2: Interpretability Tools for Language Model Safety Research
+
+| | |
+|---|---|
+| **Source** | DeepMind |
+| **URL** | [deepmind.google/blog/gemma-scope-2-helping-the-ai-safety-community-deepen-understanding-of-complex-language-model-behavior](https://deepmind.google/blog/gemma-scope-2-helping-the-ai-safety-community-deepen-understanding-of-complex-language-model-behavior/) |
+| **Researched** | 2026-01-26 |
 
 ## Overview
 

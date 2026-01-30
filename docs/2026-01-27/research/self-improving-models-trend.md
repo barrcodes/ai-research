@@ -1,11 +1,10 @@
----
-title: Models that improve on their own are AI's next big thing
-source: Axios
-url: https://www.axios.com/2026/01/27/models-improve-ai
-researched_at: 2026-01-27T00:00:00Z
----
-
 # Models that improve on their own are AI's next big thing
+
+| | |
+|---|---|
+| **Source** | Axios |
+| **URL** | [axios.com/2026/01/27/models-improve-ai](https://www.axios.com/2026/01/27/models-improve-ai) |
+| **Researched** | 2026-01-27 |
 
 ## Overview
 

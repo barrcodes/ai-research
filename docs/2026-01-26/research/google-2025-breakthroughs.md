@@ -1,11 +1,10 @@
----
-title: Google's Year in Review: 8 Areas with Research Breakthroughs in 2025
-source: Google Research Blog
-url: https://blog.google/technology/ai/2025-research-breakthroughs/
-researched_at: 2026-01-26T00:00:00Z
----
-
 # Google's Year in Review: 8 Areas with Research Breakthroughs in 2025
+
+| | |
+|---|---|
+| **Source** | Google Research Blog |
+| **URL** | [blog.google/technology/ai/2025-research-breakthroughs](https://blog.google/technology/ai/2025-research-breakthroughs/) |
+| **Researched** | 2026-01-26 |
 
 ## Overview
 

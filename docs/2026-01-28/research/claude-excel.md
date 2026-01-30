@@ -1,12 +1,10 @@
----
-title: Claude in Excel Pro Plan Integration
-source: Reddit r/ClaudeAI
-url: https://old.reddit.com/r/ClaudeAI/comments/1ql5rme/claude_in_excel_is_now_available_on_pro_plans/
-researched_at: 2026-01-28T00:00:00Z
-fetch_method: concurrent-browser
----
-
 # Claude in Excel Pro Plan Integration
+
+| | |
+|---|---|
+| **Source** | Reddit r/ClaudeAI |
+| **URL** | [old.reddit.com/r/ClaudeAI/comments/1ql5rme/claude_in_excel_is_now_available_on_pro_plans/](https://old.reddit.com/r/ClaudeAI/comments/1ql5rme/claude_in_excel_is_now_available_on_pro_plans/) |
+| **Researched** | 2026-01-28 |
 
 ## Overview
 Claude is now available as an Excel add-in for Pro plan subscribers. The integration enables AI-assisted spreadsheet operations with multi-file support, intelligent cell preservation, and extended session handling through auto-compaction. The community response indicates strong enterprise market positioning, with users characterizing it as a "game changer" that outpaces competing offerings from ChatGPT and Microsoft's Copilot.

@@ -1,11 +1,10 @@
----
-title: One Year Since the "DeepSeek Moment"
-source: Hugging Face Blog
-url: https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment
-researched_at: 2026-01-26T00:00:00Z
----
-
 # One Year Since the "DeepSeek Moment"
+
+| | |
+|---|---|
+| **Source** | Hugging Face Blog |
+| **URL** | [huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment](https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment) |
+| **Researched** | 2026-01-26 |
 
 ## Overview
 

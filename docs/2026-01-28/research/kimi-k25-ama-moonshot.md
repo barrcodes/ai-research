@@ -1,12 +1,10 @@
----
-title: Kimi K2.5: Emerging Leader in Open-Weight Coding Assistants
-source: LocalLLaMA Subreddit + Community Research
-url: https://old.reddit.com/r/LocalLLaMA/comments/1qp46za/ama_announcement_moonshot_ai_the_opensource/
-researched_at: 2026-01-28T14:35:00Z
-fetch_method: concurrent-browser
----
-
 # Kimi K2.5: Emerging Leader in Open-Weight Coding Assistants
+
+| | |
+|---|---|
+| **Source** | LocalLLaMA Subreddit + Community Research |
+| **URL** | [old.reddit.com/r/LocalLLaMA/comments/1qp46za/ama_announcement_moonshot_ai_the_opensource](https://old.reddit.com/r/LocalLLaMA/comments/1qp46za/ama_announcement_moonshot_ai_the_opensource/) |
+| **Researched** | 2026-01-28 |
 
 ## Overview
 

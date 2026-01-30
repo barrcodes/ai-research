@@ -1,11 +1,10 @@
----
-title: Agents Rule of Two - A Practical Approach to AI Agent Security
-source: Meta AI Blog
-url: https://ai.meta.com/blog/practical-ai-agent-security/
-researched_at: 2026-01-26T00:00:00Z
----
-
 # Agents Rule of Two: A Practical Approach to AI Agent Security
+
+| | |
+|---|---|
+| **Source** | Meta AI Blog |
+| **URL** | [ai.meta.com/blog/practical-ai-agent-security](https://ai.meta.com/blog/practical-ai-agent-security/) |
+| **Researched** | 2026-01-26 |
 
 ## Overview
 

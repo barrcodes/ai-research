@@ -1,11 +1,10 @@
----
-title: DeepSeek-OCR-2 Release
-source: Hugging Face Model Hub
-url: https://huggingface.co/deepseek-ai/DeepSeek-OCR-2
-researched_at: 2026-01-27T00:00:00Z
----
-
 # DeepSeek-OCR-2 Release
+
+| | |
+|---|---|
+| **Source** | Hugging Face Model Hub |
+| **URL** | [huggingface.co/deepseek-ai/DeepSeek-OCR-2](https://huggingface.co/deepseek-ai/DeepSeek-OCR-2) |
+| **Researched** | 2026-01-27 |
 
 ## Overview
 

@@ -1,11 +1,10 @@
----
-title: Tracing Claude Code's LLM Traffic: Agentic loop, sub-agents, tool use, prompts
-source: George Sung Substack
-url: https://georgesung.substack.com/p/tracing-claude-codes-llm-traffic
-researched_at: 2026-01-26T00:00:00Z
----
-
 # Tracing Claude Code's LLM Traffic
+
+| | |
+|---|---|
+| **Source** | George Sung Substack |
+| **URL** | [georgesung.substack.com/p/tracing-claude-codes-llm-traffic](https://georgesung.substack.com/p/tracing-claude-codes-llm-traffic) |
+| **Researched** | 2026-01-26 |
 
 ## Overview
 

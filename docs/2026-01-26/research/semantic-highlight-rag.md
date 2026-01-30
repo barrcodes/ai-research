@@ -1,11 +1,10 @@
----
-title: How We Built a Semantic Highlight Model To Save Token Cost for RAG
-source: Hugging Face Blog (Zilliz)
-url: https://huggingface.co/blog/zilliz/zilliz-semantic-highlight-model
-researched_at: 2026-01-26T00:00:00Z
----
-
 # How We Built a Semantic Highlight Model To Save Token Cost for RAG
+
+| | |
+|---|---|
+| **Source** | Hugging Face Blog (Zilliz) |
+| **URL** | [huggingface.co/blog/zilliz/zilliz-semantic-highlight-model](https://huggingface.co/blog/zilliz/zilliz-semantic-highlight-model) |
+| **Researched** | 2026-01-26 |
 
 ## Overview
 

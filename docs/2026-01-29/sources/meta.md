@@ -1,12 +1,12 @@
----
-source: Meta AI
-url: https://ai.meta.com/blog/
-scanned_at: 2026-01-29T00:00:00Z
-since_date: 2026-01-28
-article_count: 0
-fetch_method: concurrent-browser
-deduplicated: true
-removed_count: 0
+# Meta AI
+
+| | |
+|---|---|
+| **URL** | [ai.meta.com/blog](https://ai.meta.com/blog/) |
+| **Scanned** | 2026-01-29 |
+| **Since** | 2026-01-28 |
+| **Articles** | 0 |
+
 ---
 
 ## Summary

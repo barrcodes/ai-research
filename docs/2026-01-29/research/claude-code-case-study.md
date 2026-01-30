@@ -1,11 +1,10 @@
----
-title: Trading My Vibe Coded App for an AI Analyst - A Claude Code Case Study
-source: The Automated Operator (Substack)
-url: https://theautomatedoperator.substack.com/p/trading-my-vibe-coded-app-for-an
-researched_at: 2026-01-29T00:00:00Z
----
-
 # Trading My Vibe Coded App for an AI Analyst: A Claude Code Case Study
+
+| | |
+|---|---|
+| **Source** | The Automated Operator (Substack) |
+| **URL** | [theautomatedoperator.substack.com/p/trading-my-vibe-coded-app-for-an](https://theautomatedoperator.substack.com/p/trading-my-vibe-coded-app-for-an) |
+| **Researched** | 2026-01-29 |
 
 ## Overview
 

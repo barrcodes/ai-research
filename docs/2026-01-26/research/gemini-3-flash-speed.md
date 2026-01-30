@@ -1,11 +1,10 @@
----
-title: Gemini 3 Flash - Frontier Intelligence Built for Speed
-source: Google Blog
-url: https://blog.google/products/gemini/gemini-3-flash
-researched_at: 2026-01-26T00:00:00Z
----
-
 # Gemini 3 Flash: Speed Through Sparse Activation
+
+| | |
+|---|---|
+| **Source** | Google Blog |
+| **URL** | [blog.google/products/gemini/gemini-3-flash](https://blog.google/products/gemini/gemini-3-flash) |
+| **Researched** | 2026-01-26 |
 
 ## Overview
 

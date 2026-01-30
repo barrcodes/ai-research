@@ -1,11 +1,10 @@
----
-title: Introducing Nano Banana Pro
-source: Google DeepMind Blog
-url: https://blog.google/technology/ai/nano-banana-pro/
-researched_at: 2026-01-26T00:00:00Z
----
-
 # Introducing Nano Banana Pro
+
+| | |
+|---|---|
+| **Source** | Google DeepMind Blog |
+| **URL** | [blog.google/technology/ai/nano-banana-pro](https://blog.google/technology/ai/nano-banana-pro/) |
+| **Researched** | 2026-01-26 |
 
 ## Overview
 

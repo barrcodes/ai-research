@@ -1,11 +1,10 @@
----
-title: "Hey Lama" - Local AI Voice Assistant for Mac
-source: GitHub (iBibek/hey-lama-local-ai-voice-assistant)
-url: https://github.com/iBibek/hey-lama-local-ai-voice-assistant
-researched_at: 2026-01-26T00:00:00Z
----
-
 # "Hey Lama" - Local AI Voice Assistant for Mac
+
+| | |
+|---|---|
+| **Source** | GitHub (iBibek/hey-lama-local-ai-voice-assistant) |
+| **URL** | [github.com/iBibek/hey-lama-local-ai-voice-assistant](https://github.com/iBibek/hey-lama-local-ai-voice-assistant) |
+| **Researched** | 2026-01-26 |
 
 ## Overview
 

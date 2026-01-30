@@ -1,11 +1,10 @@
----
-title: NVIDIA Cosmos Reason 2 Brings Advanced Reasoning To Physical AI
-source: Hugging Face Blog
-url: https://huggingface.co/blog/nvidia/nvidia-cosmos-reason-2-brings-advanced-reasoning
-researched_at: 2026-01-26T00:00:00Z
----
-
 # NVIDIA Cosmos Reason 2 Brings Advanced Reasoning To Physical AI
+
+| | |
+|---|---|
+| **Source** | Hugging Face Blog |
+| **URL** | [huggingface.co/blog/nvidia/nvidia-cosmos-reason-2-brings-advanced-reasoning](https://huggingface.co/blog/nvidia/nvidia-cosmos-reason-2-brings-advanced-reasoning) |
+| **Researched** | 2026-01-26 |
 
 ## Overview
 

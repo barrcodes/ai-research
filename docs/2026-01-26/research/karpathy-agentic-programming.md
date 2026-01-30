@@ -1,12 +1,10 @@
----
-title: Andrej Karpathy on Agentic Programming
-source: Reddit r/singularity & Dwarkesh Podcast
-url: https://www.reddit.com/r/singularity/
-researched_at: 2026-01-26T00:00:00Z
-fetch_method: web-search
----
-
 # Andrej Karpathy on Agentic Programming
+
+| | |
+|---|---|
+| **Source** | Reddit r/singularity & Dwarkesh Podcast |
+| **URL** | [reddit.com/r/singularity/](https://www.reddit.com/r/singularity/) |
+| **Researched** | 2026-01-26 |
 
 ## Overview
 

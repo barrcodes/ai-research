@@ -1,11 +1,10 @@
----
-title: ShapedQL – A SQL engine for multi-stage ranking and RAG
-source: Shaped 2.0 Blog / Hacker News
-url: https://playground.shaped.ai
-researched_at: 2026-01-29T00:00:00Z
----
-
 # ShapedQL – A SQL engine for multi-stage ranking and RAG
+
+| | |
+|---|---|
+| **Source** | Shaped 2.0 Blog / Hacker News |
+| **URL** | [playground.shaped.ai](https://playground.shaped.ai) |
+| **Researched** | 2026-01-29 |
 
 ## Overview
 

@@ -1,12 +1,10 @@
----
-title: Benchmarking Open Weight LLMs on Different Mac Models
-source: Reddit r/LocalLLaMA (post not directly located)
-url: https://www.reddit.com/r/LocalLLaMA/
-researched_at: 2026-01-26T00:00:00Z
-fetch_method: web-search
----
-
 # Benchmarking Open Weight LLMs on Different Mac Models
+
+| | |
+|---|---|
+| **Source** | Reddit r/LocalLLaMA (post not directly located) |
+| **URL** | [reddit.com/r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/) |
+| **Researched** | 2026-01-26 |
 
 ## Overview
 The Mac community has been systematically benchmarking open-weight LLMs across different Apple Silicon generations (M1, M2, M3, M4 series) and configurations to understand performance characteristics and hardware requirements. This research addresses a critical gap for engineers building local inference systems and evaluating Mac hardware for ML workloads.

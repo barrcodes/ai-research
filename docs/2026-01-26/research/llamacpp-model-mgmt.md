@@ -1,11 +1,10 @@
----
-title: New in llama.cpp - Model Management
-source: Hugging Face Blog (GGML Org)
-url: https://huggingface.co/blog/ggml-org/model-management-in-llamacpp
-researched_at: 2026-01-26T00:00:00Z
----
-
 # New in llama.cpp - Model Management
+
+| | |
+|---|---|
+| **Source** | Hugging Face Blog (GGML Org) |
+| **URL** | [huggingface.co/blog/ggml-org/model-management-in-llamacpp](https://huggingface.co/blog/ggml-org/model-management-in-llamacpp) |
+| **Researched** | 2026-01-26 |
 
 ## Overview
 

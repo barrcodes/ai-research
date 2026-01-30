@@ -1,12 +1,10 @@
----
-title: Our approach to age prediction
-source: OpenAI
-url: https://openai.com/index/our-approach-to-age-prediction/
-researched_at: 2026-01-26T00:00:00Z
-fetch_method: web-search
----
-
 # Our Approach to Age Prediction
+
+| | |
+|---|---|
+| **Source** | OpenAI |
+| **URL** | [openai.com/index/our-approach-to-age-prediction/](https://openai.com/index/our-approach-to-age-prediction/) |
+| **Researched** | 2026-01-26 |
 
 ## Overview
 

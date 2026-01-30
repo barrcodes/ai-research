@@ -1,11 +1,10 @@
----
-title: Pinterest Layoffs - AI Talent Shift
-source: SFGate / Multiple tech publications
-url: https://www.sfgate.com/tech/article/pinterest-layoffs-hundreds-ai-21318302.php
-researched_at: 2026-01-28T12:00:00Z
----
-
 # Pinterest Layoffs: AI Talent Shift
+
+| | |
+|---|---|
+| **Source** | SFGate / Multiple tech publications |
+| **URL** | [sfgate.com/tech/article/pinterest-layoffs-hundreds-ai-21318302.php](https://www.sfgate.com/tech/article/pinterest-layoffs-hundreds-ai-21318302.php) |
+| **Researched** | 2026-01-28 |
 
 ## Overview
 

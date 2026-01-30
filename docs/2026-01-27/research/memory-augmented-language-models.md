@@ -1,11 +1,10 @@
----
-title: Reverse Engineering a $500M Mystery - From HashHop to Memory-Augmented Language Models
-source: Hugging Face Blog
-url: https://huggingface.co/blog/codelion/reverse-engineering-magic-hashhop
-researched_at: 2026-01-27T00:00:00Z
----
-
 # Reverse Engineering a $500M Mystery - From HashHop to Memory-Augmented Language Models
+
+| | |
+|---|---|
+| **Source** | Hugging Face Blog |
+| **URL** | [huggingface.co/blog/codelion/reverse-engineering-magic-hashhop](https://huggingface.co/blog/codelion/reverse-engineering-magic-hashhop) |
+| **Researched** | 2026-01-27 |
 
 ## Overview
 

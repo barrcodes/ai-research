@@ -1,12 +1,10 @@
----
-title: AAAI 2026 Awards Shift: Real-World Over Benchmarks
-source: AAAI 2026 Conference, Community Discussion
-url: https://aaai.org/conference/aaai/aaai-26/
-researched_at: 2026-01-28T15:00:00Z
-fetch_method: concurrent-browser + web-search
----
-
 # AAAI 2026 Awards Shift: Real-World Over Benchmarks
+
+| | |
+|---|---|
+| **Source** | AAAI 2026 Conference, Community Discussion |
+| **URL** | [aaai.org/conference/aaai/aaai-26](https://aaai.org/conference/aaai/aaai-26/) |
+| **Researched** | 2026-01-28 |
 
 ## Overview
 

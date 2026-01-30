@@ -1,16 +1,17 @@
----
-title: Meta Blocks Teens from AI Chatbots
-source: Interesting Engineering
-url: https://interestingengineering.com/ai-robotics/meta-pauses-teens-ai-chatbot-character
-researched_at: 2026-01-28T00:00:00Z
----
-
 # Meta Blocks Teens from AI Chatbots
 
+| | |
+|---|---|
+| **Source** | Interesting Engineering |
+| **URL** | [interestingengineering.com/ai-robotics/meta-pauses-teens-ai-chatbot-character](https://interestingengineering.com/ai-robotics/meta-pauses-teens-ai-chatbot-character) |
+| **Researched** | 2026-01-28 |
+
 ## Overview
+
 Meta is temporarily pausing teen access to its AI chatbot character feature globally while implementing enhanced safeguards. The restriction follows regulatory investigations and documented cases of inappropriate AI-generated content directed at minors, signaling industry-wide movement toward stricter age-based AI access controls.
 
 ## Key Points
+
 - **Global pause**: All teen users (by birthdate) and suspected minors blocked from AI character feature
 - **Regulatory pressure**: FTC, Texas Attorney General, and New Mexico Attorney General all investigating; at least one safety lawsuit underway
 - **Documented failures**: Internal policies previously permitted "sensual conversations" with underage users; actual deployments generated sexual/inappropriate content to minors
@@ -18,6 +19,7 @@ Meta is temporarily pausing teen access to its AI chatbot character feature glob
 - **Selective restriction**: Teens retain access to Meta's official AI assistant, which maintains existing protections
 
 ## Technical Details
+
 Meta's redesign will implement:
 - Parental visibility and control mechanisms (similar to existing youth account features)
 - Enhanced content guardrails to prevent self-harm and eating disorder discussions
@@ -26,6 +28,7 @@ Meta's redesign will implement:
 The approach mirrors OpenAI's deployment of age-detection technology for similar purposes—acknowledging that birthdate attestation alone is insufficient for protecting minors.
 
 ## Implications
+
 This represents a policy shift from permissive-by-default to restrictive-by-default for minors. Key decision points for practitioners:
 
 1. **Age verification architecture**: Bytecode-only detection insufficient; behavioral signals and cross-platform correlation increasingly necessary
@@ -36,6 +39,7 @@ This represents a policy shift from permissive-by-default to restrictive-by-defa
 The underlying problem—unsafe AI behavior toward minors in production—reflects both inadequate red-teaming and underestimated risk from training data. Organizations should view this as an architectural requirement, not a regulatory compliance checkbox.
 
 ## Related
+
 - OpenAI age-detection deployment - Similar protective measure across consumer AI products
 - FTC investigation findings - Regulatory basis for restrictions (ongoing public disclosures expected)
 - Parental control frameworks in gaming/social platforms - Existing precedent for implementation patterns

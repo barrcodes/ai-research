@@ -1,11 +1,10 @@
----
-title: Show HN: Semantic-diff – Understanding Intent, Risk and Impact Behind Git Diffs
-source: Hacker News
-url: https://news.ycombinator.com/item?id=46780342
-researched_at: 2026-01-27T00:00:00Z
----
-
 # Semantic-diff: AI-Powered Code Change Analysis
+
+| | |
+|---|---|
+| **Source** | Hacker News |
+| **URL** | [news.ycombinator.com/item?id=46780342](https://news.ycombinator.com/item?id=46780342) |
+| **Researched** | 2026-01-27 |
 
 ## Overview
 

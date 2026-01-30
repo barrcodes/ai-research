@@ -1,11 +1,10 @@
----
-title: Interpreto - A Unified Toolkit for Interpretability of Transformer Models
-source: Hugging Face Blog
-url: https://huggingface.co/blog/Fannyjrd/interpreto
-researched_at: 2026-01-26T00:00:00Z
----
-
 # Interpreto: A Unified Toolkit for Transformer Interpretability
+
+| | |
+|---|---|
+| **Source** | Hugging Face Blog |
+| **URL** | [huggingface.co/blog/Fannyjrd/interpreto](https://huggingface.co/blog/Fannyjrd/interpreto) |
+| **Researched** | 2026-01-26 |
 
 ## Overview
 

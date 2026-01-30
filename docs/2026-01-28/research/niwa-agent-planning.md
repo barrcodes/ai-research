@@ -1,11 +1,10 @@
----
-title: Niwa - Async Conflict-Aware Spec/Planning for LLM Agents
-source: GitHub - secemp9/niwa
-url: https://github.com/secemp9/niwa
-researched_at: 2026-01-28T00:00:00Z
----
-
 # Niwa: Async Conflict-Aware Spec/Planning for LLM Agents
+
+| | |
+|---|---|
+| **Source** | GitHub - secemp9/niwa |
+| **URL** | [github.com/secemp9/niwa](https://github.com/secemp9/niwa) |
+| **Researched** | 2026-01-28 |
 
 ## Overview
 

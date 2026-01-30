@@ -1,11 +1,10 @@
----
-title: Falcon-H1-Arabic - Pushing the Boundaries of Arabic Language AI with Hybrid Architecture
-source: Hugging Face Blog
-url: https://huggingface.co/blog/tiiuae/falcon-h1-arabic
-researched_at: 2026-01-26T00:00:00Z
----
-
 # Falcon-H1-Arabic: Pushing the Boundaries of Arabic Language AI with Hybrid Architecture
+
+| | |
+|---|---|
+| **Source** | Hugging Face Blog |
+| **URL** | [huggingface.co/blog/tiiuae/falcon-h1-arabic](https://huggingface.co/blog/tiiuae/falcon-h1-arabic) |
+| **Researched** | 2026-01-26 |
 
 ## Overview
 

@@ -1,11 +1,10 @@
----
-title: ADL Report: Chatbot Antisemitism Analysis
-source: Anti-Defamation League / The Verge
-url: https://www.theverge.com/news/868925/adl-ai-antisemitism-report-grok-chatgpt-gemini-claude-deepseek-llama-elon-musk
-researched_at: 2026-01-28T00:00:00Z
----
-
 # ADL Report: Chatbot Antisemitism Analysis
+
+| | |
+|---|---|
+| **Source** | Anti-Defamation League / The Verge |
+| **URL** | [theverge.com/news/868925/adl-ai-antisemitism-report](https://www.theverge.com/news/868925/adl-ai-antisemitism-report-grok-chatgpt-gemini-claude-deepseek-llama-elon-musk) |
+| **Researched** | 2026-01-28 |
 
 ## Overview
 

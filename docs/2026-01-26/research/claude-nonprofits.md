@@ -1,11 +1,10 @@
----
-title: Claude for Nonprofits
-source: Anthropic
-url: https://www.anthropic.com/news/claude-for-nonprofits
-researched_at: 2026-01-26T00:00:00Z
----
-
 # Claude for Nonprofits
+
+| | |
+|---|---|
+| **Source** | Anthropic |
+| **URL** | [anthropic.com/news/claude-for-nonprofits](https://www.anthropic.com/news/claude-for-nonprofits) |
+| **Researched** | 2026-01-26 |
 
 ## Overview
 

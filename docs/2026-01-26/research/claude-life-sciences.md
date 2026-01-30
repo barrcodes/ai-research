@@ -1,11 +1,10 @@
----
-title: Claude for Life Sciences
-source: Anthropic
-url: https://www.anthropic.com/news/claude-for-life-sciences
-researched_at: 2026-01-26T00:00:00Z
----
-
 # Claude for Life Sciences
+
+| | |
+|---|---|
+| **Source** | Anthropic |
+| **URL** | [anthropic.com/news/claude-for-life-sciences](https://www.anthropic.com/news/claude-for-life-sciences) |
+| **Researched** | 2026-01-26 |
 
 ## Overview
 

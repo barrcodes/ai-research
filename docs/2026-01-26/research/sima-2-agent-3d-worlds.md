@@ -1,11 +1,10 @@
----
-title: SIMA 2: An Agent that Plays, Reasons, and Learns With You in Virtual 3D Worlds
-source: DeepMind Blog
-url: https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds/
-researched_at: 2026-01-26T00:00:00Z
----
-
 # SIMA 2: An Agent that Plays, Reasons, and Learns With You in Virtual 3D Worlds
+
+| | |
+|---|---|
+| **Source** | DeepMind Blog |
+| **URL** | [deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds](https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds/) |
+| **Researched** | 2026-01-26 |
 
 ## Overview
 

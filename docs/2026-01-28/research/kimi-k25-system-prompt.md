@@ -1,12 +1,10 @@
----
-title: Kimi K2.5 System Prompt and Tools Analysis
-source: Reddit r/LocalLLaMA + GitHub dnnyngyen/kimi-k2.5-prompts-tools
-url: https://old.reddit.com/r/LocalLLaMA/comments/1qoml1n/leaked_kimi_k25s_full_system_prompt_tools/
-researched_at: 2026-01-28T00:00:00Z
-fetch_method: concurrent-browser
----
-
 # Kimi K2.5 System Prompt and Tools Analysis
+
+| | |
+|---|---|
+| **Source** | Reddit r/LocalLLaMA + GitHub dnnyngyen/kimi-k2.5-prompts-tools |
+| **URL** | [old.reddit.com/r/LocalLLaMA/comments/1qoml1n/leaked_kimi_k25s_full_system_prompt_tools](https://old.reddit.com/r/LocalLLaMA/comments/1qoml1n/leaked_kimi_k25s_full_system_prompt_tools/) |
+| **Researched** | 2026-01-28 |
 
 ## Overview
 

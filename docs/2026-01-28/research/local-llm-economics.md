@@ -1,12 +1,10 @@
----
-title: Local LLM Infrastructure Economics - The Shifting Cost Calculus
-source: r/LocalLLaMA Discussion
-url: https://old.reddit.com/r/LocalLLaMA/comments/1qp6rm5/api_pricing_is_in_freefall_whats_the_actual_case/
-researched_at: 2026-01-28T00:00:00Z
-fetch_method: concurrent-browser
----
-
 # Local LLM Infrastructure Economics: When Does Self-Hosting Make Sense?
+
+| | |
+|---|---|
+| **Source** | r/LocalLLaMA Discussion |
+| **URL** | [old.reddit.com/r/LocalLLaMA/comments/1qp6rm5/api_pricing_is_in_freefall_whats_the_actual_case](https://old.reddit.com/r/LocalLLaMA/comments/1qp6rm5/api_pricing_is_in_freefall_whats_the_actual_case/) |
+| **Researched** | 2026-01-28 |
 
 ## Overview
 

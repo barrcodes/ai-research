@@ -1,11 +1,10 @@
----
-title: Which LLM writes the best R code?
-source: Posit / Simon P. Couch Blog
-url: https://www.simonpcouch.com/blog/2025-04-15-gpt-4-1/
-researched_at: 2026-01-27T00:00:00Z
----
-
 # Which LLM writes the best R code?
+
+| | |
+|---|---|
+| **Source** | Posit / Simon P. Couch Blog |
+| **URL** | [simonpcouch.com/blog/2025-04-15-gpt-4-1](https://www.simonpcouch.com/blog/2025-04-15-gpt-4-1/) |
+| **Researched** | 2026-01-27 |
 
 ## Overview
 

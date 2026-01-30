@@ -1,11 +1,10 @@
----
-title: ChatGPT Containers can now run bash, pip/npm install packages and download files
-source: Hacker News
-url: https://news.ycombinator.com/item?id=46770221
-researched_at: 2026-01-27T00:00:00Z
----
-
 # ChatGPT Containers Can Now Run Bash, pip/npm, and Download Files
+
+| | |
+|---|---|
+| **Source** | Hacker News |
+| **URL** | [news.ycombinator.com/item?id=46770221](https://news.ycombinator.com/item?id=46770221) |
+| **Researched** | 2026-01-27 |
 
 ## Overview
 

@@ -1,12 +1,10 @@
----
-title: LAD-A2A - Local Agent Discovery for AI on Local Networks
-source: Reddit r/MachineLearning
-url: https://old.reddit.com/r/MachineLearning/comments/1qpmxvk/p_lada2a_how_ai_agents_find_each_other_on_local/
-researched_at: 2026-01-29T14:30:00Z
-fetch_method: concurrent-browser
----
-
 # LAD-A2A: Local Agent Discovery for AI Agents
+
+| | |
+|---|---|
+| **Source** | Reddit r/MachineLearning |
+| **URL** | [old.reddit.com/r/MachineLearning/comments/1qpmxvk/p_lada2a_how_ai_agents_find_each_other_on_local](https://old.reddit.com/r/MachineLearning/comments/1qpmxvk/p_lada2a_how_ai_agents_find_each_other_on_local/) |
+| **Researched** | 2026-01-29 |
 
 ## Overview
 

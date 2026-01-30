@@ -1,11 +1,10 @@
----
-title: SHELLper - 0.6B Model Excels at Multi-Turn Function Calling
-source: Distil Labs (GitHub)
-url: https://github.com/distil-labs/distil-SHELLper
-researched_at: 2026-01-26T00:00:00Z
----
-
 # SHELLper: 0.6B Model Excels at Multi-Turn Function Calling
+
+| | |
+|---|---|
+| **Source** | Distil Labs (GitHub) |
+| **URL** | [github.com/distil-labs/distil-SHELLper](https://github.com/distil-labs/distil-SHELLper) |
+| **Researched** | 2026-01-26 |
 
 ## Overview
 SHELLper demonstrates that aggressive model compression—fine-tuning Qwen3 0.6B for bash command generation—achieves near-perfect accuracy (100%) on multi-turn function calling tasks. The model converts natural language to executable bash commands through specialized training on synthetic data, proving that function calling doesn't require massive frontier models when properly optimized.

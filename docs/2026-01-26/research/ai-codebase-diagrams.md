@@ -1,12 +1,10 @@
----
-title: I built this to turn AI-generated codebases into interactive diagrams (D2 + overlay)
-source: Reddit r/ClaudeAI / GitHub (Noodles)
-url: https://github.com/unslop-xyz/noodles
-researched_at: 2026-01-26T00:00:00Z
-fetch_method: web-search
----
-
 # Building Interactive Diagrams for AI-Generated Codebases with D2
+
+| | |
+|---|---|
+| **Source** | Reddit r/ClaudeAI / GitHub (Noodles) |
+| **URL** | [github.com/unslop-xyz/noodles](https://github.com/unslop-xyz/noodles) |
+| **Researched** | 2026-01-26 |
 
 ## Overview
 

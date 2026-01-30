@@ -1,11 +1,10 @@
----
-title: NVIDIA Launches Earth-2 Family of Open Models — the World's First Fully Open, Accelerated Set of Models and Tools for AI Weather
-source: NVIDIA Blog
-url: https://blogs.nvidia.com/blog/nvidia-earth-2-open-models/?ncid=so-twit-259380
-researched_at: 2026-01-26T00:00:00Z
----
-
 # NVIDIA Earth-2 Weather Models
+
+| | |
+|---|---|
+| **Source** | NVIDIA Blog |
+| **URL** | [blogs.nvidia.com/blog/nvidia-earth-2-open-models/?ncid=so-twit-259380](https://blogs.nvidia.com/blog/nvidia-earth-2-open-models/?ncid=so-twit-259380) |
+| **Researched** | 2026-01-26 |
 
 ## Overview
 

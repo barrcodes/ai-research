@@ -1,11 +1,10 @@
----
-title: Build with Nano Banana Pro, our Gemini 3 Pro Image model
-source: Google Blog (Technology/Developers)
-url: https://blog.google/technology/developers/gemini-3-pro-image-developers/
-researched_at: 2026-01-26T00:00:00Z
----
-
 # Nano Banana Pro: Gemini 3 Pro Image for Developers
+
+| | |
+|---|---|
+| **Source** | Google Blog (Technology/Developers) |
+| **URL** | [blog.google/technology/developers/gemini-3-pro-image-developers](https://blog.google/technology/developers/gemini-3-pro-image-developers/) |
+| **Researched** | 2026-01-26 |
 
 ## Overview
 

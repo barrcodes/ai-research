@@ -1,12 +1,10 @@
----
-title: Transformers v5 Final Release - AI Backbone Re-engineered
-source: Reddit r/LocalLLaMA / Hugging Face Blog
-url: https://www.reddit.com/r/LocalLLaMA/
-researched_at: 2026-01-26T00:00:00Z
-fetch_method: web-search
----
-
 # Transformers v5 Final Release: Key Architectural Shifts
+
+| | |
+|---|---|
+| **Source** | Reddit r/LocalLLaMA / Hugging Face Blog |
+| **URL** | [reddit.com/r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/) |
+| **Researched** | 2026-01-26 |
 
 ## Overview
 

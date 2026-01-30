@@ -1,12 +1,10 @@
----
-title: ReFlow Studio v0.5 - A Fully Local, Portable Neural Dubbing Workstation
-source: GitHub / Hacker News (r/LocalLLaMA adjacent)
-url: https://github.com/ananta-sj/ReFlow-Studio
-researched_at: 2026-01-26T00:00:00Z
-fetch_method: web-search
----
-
 # ReFlow Studio v0.5: A Fully Local, Portable Neural Dubbing Workstation
+
+| | |
+|---|---|
+| **Source** | GitHub / Hacker News (r/LocalLLaMA adjacent) |
+| **URL** | [github.com/ananta-sj/ReFlow-Studio](https://github.com/ananta-sj/ReFlow-Studio) |
+| **Researched** | 2026-01-26 |
 
 ## Overview
 

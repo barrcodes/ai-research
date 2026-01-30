@@ -1,11 +1,10 @@
----
-title: I tracked GPU prices across 25 cloud providers and the price differences are insane
-source: GPU Per Hour / getdeploying.com
-url: https://gpuperhour.com
-researched_at: 2026-01-26T00:00:00Z
----
-
 # I tracked GPU prices across 25 cloud providers and the price differences are insane
+
+| | |
+|---|---|
+| **Source** | GPU Per Hour / getdeploying.com |
+| **URL** | [gpuperhour.com](https://gpuperhour.com) |
+| **Researched** | 2026-01-26 |
 
 ## Overview
 

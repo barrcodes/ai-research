@@ -1,11 +1,10 @@
----
-title: Government ChatGPT Security Incident - CISA Director Uploads Sensitive Documents
-source: Politico / Multiple
-url: https://www.politico.com/news/2026/01/27/cisa-madhu-gottumukkala-chatgpt-00749361
-researched_at: 2026-01-28T00:00:00Z
----
-
 # Government ChatGPT Security Incident - CISA Director Uploads Sensitive Documents
+
+| | |
+|---|---|
+| **Source** | Politico / Multiple |
+| **URL** | [politico.com/news/2026/01/27/cisa-madhu-gottumukkala-chatgpt-00749361](https://www.politico.com/news/2026/01/27/cisa-madhu-gottumukkala-chatgpt-00749361) |
+| **Researched** | 2026-01-28 |
 
 ## Overview
 

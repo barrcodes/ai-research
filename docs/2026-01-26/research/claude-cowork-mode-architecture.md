@@ -1,11 +1,10 @@
----
-title: Deep Dive - Claude Desktop's Cowork Mode Architecture
-source: aaddrick.com
-url: https://aaddrick.com/blog/reverse-engineering-claude-desktops-cowork-mode-a-deep-dive-into-vm-isolation-and-linux-possibilities
-researched_at: 2026-01-26T00:00:00Z
----
-
 # Deep Dive: Claude Desktop's Cowork Mode Architecture
+
+| | |
+|---|---|
+| **Source** | aaddrick.com |
+| **URL** | [aaddrick.com/blog/reverse-engineering-claude-desktops-cowork-mode-a-deep-dive-into-vm-isolation-and-linux-possibilities](https://aaddrick.com/blog/reverse-engineering-claude-desktops-cowork-mode-a-deep-dive-into-vm-isolation-and-linux-possibilities) |
+| **Researched** | 2026-01-26 |
 
 ## Overview
 

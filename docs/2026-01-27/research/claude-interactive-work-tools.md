@@ -1,12 +1,10 @@
----
-title: Interactive Work Tools Now Available in Claude
-source: Anthropic, Reddit r/ClaudeAI
-url: https://old.reddit.com/r/ClaudeAI/hot/
-researched_at: 2026-01-27T00:00:00Z
-fetch_method: concurrent-browser + web-search
----
-
 # Interactive Work Tools Now Available in Claude
+
+| | |
+|---|---|
+| **Source** | Anthropic, Reddit r/ClaudeAI |
+| **URL** | [old.reddit.com/r/ClaudeAI/hot](https://old.reddit.com/r/ClaudeAI/hot/) |
+| **Researched** | 2026-01-27 |
 
 ## Overview
 

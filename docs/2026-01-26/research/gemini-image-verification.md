@@ -1,11 +1,10 @@
----
-title: How we're bringing AI image verification to the Gemini app
-source: Google AI Blog
-url: https://blog.google/technology/ai/ai-image-verification-gemini-app/
-researched_at: 2026-01-26T00:00:00Z
----
-
 # How we're bringing AI image verification to the Gemini app
+
+| | |
+|---|---|
+| **Source** | Google AI Blog |
+| **URL** | [blog.google/technology/ai/ai-image-verification-gemini-app](https://blog.google/technology/ai/ai-image-verification-gemini-app/) |
+| **Researched** | 2026-01-26 |
 
 ## Overview
 

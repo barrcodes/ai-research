@@ -1,11 +1,10 @@
----
-title: Moltbot - Viral AI Assistant
-source: TechPuts
-url: https://techputs.com/viral-ai-assistant-clawdbot-moltbot/
-researched_at: 2026-01-28T00:00:00Z
----
-
 # Moltbot: Viral AI Assistant
+
+| | |
+|---|---|
+| **Source** | TechPuts |
+| **URL** | [techputs.com/viral-ai-assistant-clawdbot-moltbot](https://techputs.com/viral-ai-assistant-clawdbot-moltbot/) |
+| **Researched** | 2026-01-28 |
 
 ## Overview
 

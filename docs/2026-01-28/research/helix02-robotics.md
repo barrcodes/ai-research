@@ -1,11 +1,10 @@
----
-title: Helix 02 - Full-Body Autonomy in Robotics
-source: Figure AI
-url: https://www.figure.ai/news/helix-02
-researched_at: 2026-01-28T00:00:00Z
----
-
 # Helix 02: Full-Body Autonomy in Robotics
+
+| | |
+|---|---|
+| **Source** | Figure AI |
+| **URL** | [figure.ai/news/helix-02](https://www.figure.ai/news/helix-02) |
+| **Researched** | 2026-01-28 |
 
 ## Overview
 

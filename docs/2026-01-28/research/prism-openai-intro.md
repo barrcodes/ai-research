@@ -1,12 +1,10 @@
----
-title: Introducing Prism
-source: OpenAI
-url: https://openai.com/index/introducing-prism/
-researched_at: 2026-01-28T00:00:00Z
-fetch_method: playwright
----
-
 # Introducing Prism
+
+| | |
+|---|---|
+| **Source** | OpenAI |
+| **URL** | [openai.com/index/introducing-prism/](https://openai.com/index/introducing-prism/) |
+| **Researched** | 2026-01-28 |
 
 ## Overview
 

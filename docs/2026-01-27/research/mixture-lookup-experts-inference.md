@@ -1,11 +1,10 @@
----
-title: Mixture of Lookup Experts are God Tier for the average guy (RAM+Disc Hybrid Inference)
-source: arXiv
-url: https://arxiv.org/abs/2503.15798
-researched_at: 2026-01-27T00:00:00Z
----
-
 # Mixture of Lookup Experts: RAM+Disk Hybrid Inference Architecture
+
+| | |
+|---|---|
+| **Source** | arXiv |
+| **URL** | [arxiv.org/abs/2503.15798](https://arxiv.org/abs/2503.15798) |
+| **Researched** | 2026-01-27 |
 
 ## Overview
 

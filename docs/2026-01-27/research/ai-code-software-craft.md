@@ -1,11 +1,10 @@
----
-title: AI Code and Software Craft
-source: Alex Wennerberg
-url: https://alexwennerberg.com/blog/2026-01-25-slop.html
-researched_at: 2026-01-27T00:00:00Z
----
-
 # AI Code and Software Craft
+
+| | |
+|---|---|
+| **Source** | Alex Wennerberg |
+| **URL** | [alexwennerberg.com/blog/2026-01-25-slop.html](https://alexwennerberg.com/blog/2026-01-25-slop.html) |
+| **Researched** | 2026-01-27 |
 
 ## Overview
 

@@ -1,11 +1,10 @@
----
-title: Introducing Claude Sonnet 4.5
-source: Anthropic
-url: https://www.anthropic.com/news/claude-sonnet-4-5
-researched_at: 2026-01-26T00:00:00Z
----
-
 # Introducing Claude Sonnet 4.5
+
+| | |
+|---|---|
+| **Source** | Anthropic |
+| **URL** | [anthropic.com/news/claude-sonnet-4-5](https://www.anthropic.com/news/claude-sonnet-4-5) |
+| **Researched** | 2026-01-26 |
 
 ## Overview
 

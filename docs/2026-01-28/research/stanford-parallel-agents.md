@@ -1,12 +1,10 @@
----
-title: "CooperBench: The Coordination Problem in AI Coding Agents"
-source: Stanford & SAP Labs
-url: https://arxiv.org/abs/2601.13295
-researched_at: 2026-01-28T00:00:00Z
-fetch_method: concurrent-browser
----
-
 # CooperBench: The Coordination Problem in AI Coding Agents
+
+| | |
+|---|---|
+| **Source** | Stanford & SAP Labs |
+| **URL** | [arxiv.org/abs/2601.13295](https://arxiv.org/abs/2601.13295) |
+| **Researched** | 2026-01-28 |
 
 ## Overview
 

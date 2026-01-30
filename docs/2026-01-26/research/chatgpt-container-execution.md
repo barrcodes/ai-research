@@ -1,11 +1,10 @@
----
-title: ChatGPT Containers can now run bash, pip/npm install packages and download files
-source: Simon Willison
-url: https://simonwillison.net/2026/Jan/26/chatgpt-containers/
-researched_at: 2026-01-26T00:00:00Z
----
-
 # ChatGPT Containers: Bash and Package Installation Capabilities
+
+| | |
+|---|---|
+| **Source** | Simon Willison |
+| **URL** | [simonwillison.net/2026/Jan/26/chatgpt-containers/](https://simonwillison.net/2026/Jan/26/chatgpt-containers/) |
+| **Researched** | 2026-01-26 |
 
 ## Overview
 

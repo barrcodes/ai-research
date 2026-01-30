@@ -1,11 +1,10 @@
----
-title: Show HN: TetrisBench – Gemini Flash reaches 66% win rate on Tetris against Opus
-source: Hacker News / TetrisBench
-url: https://tetrisbench.com/tetrisbench/
-researched_at: 2026-01-26T00:00:00Z
----
-
 # TetrisBench: Benchmarking LLM Game-Playing via Real-Time Code Generation
+
+| | |
+|---|---|
+| **Source** | Hacker News / TetrisBench |
+| **URL** | [tetrisbench.com/tetrisbench/](https://tetrisbench.com/tetrisbench/) |
+| **Researched** | 2026-01-26 |
 
 ## Overview
 

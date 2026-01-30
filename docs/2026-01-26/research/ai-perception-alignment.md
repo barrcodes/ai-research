@@ -1,11 +1,10 @@
----
-title: Teaching AI to See the World More Like We Do
-source: DeepMind Blog
-url: https://deepmind.google/blog/teaching-ai-to-see-the-world-more-like-we-do/
-researched_at: 2026-01-26T00:00:00Z
----
-
 # Teaching AI to See the World More Like We Do
+
+| | |
+|---|---|
+| **Source** | DeepMind Blog |
+| **URL** | [deepmind.google/blog/teaching-ai-to-see-the-world-more-like-we-do](https://deepmind.google/blog/teaching-ai-to-see-the-world-more-like-we-do/) |
+| **Researched** | 2026-01-26 |
 
 ## Overview
 

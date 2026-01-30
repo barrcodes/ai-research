@@ -1,11 +1,10 @@
----
-title: Claude Code Daily Benchmarks for Degradation Tracking
-source: MarginLab
-url: https://marginlab.ai/trackers/claude-code/
-researched_at: 2026-01-29T00:00:00Z
----
-
 # Claude Code Daily Benchmarks for Degradation Tracking
+
+| | |
+|---|---|
+| **Source** | MarginLab |
+| **URL** | [marginlab.ai/trackers/claude-code](https://marginlab.ai/trackers/claude-code/) |
+| **Researched** | 2026-01-29 |
 
 ## Overview
 

@@ -1,11 +1,10 @@
----
-title: Introducing Colin - A Context Engine that Keeps Agent Skills Fresh
-source: Jeremiah Lowin / Prefect
-url: https://www.jlowin.dev/blog/colin
-researched_at: 2026-01-26T00:00:00Z
----
-
 # Introducing Colin - A Context Engine that Keeps Agent Skills Fresh
+
+| | |
+|---|---|
+| **Source** | Jeremiah Lowin / Prefect |
+| **URL** | [jlowin.dev/blog/colin](https://www.jlowin.dev/blog/colin) |
+| **Researched** | 2026-01-26 |
 
 ## Overview
 

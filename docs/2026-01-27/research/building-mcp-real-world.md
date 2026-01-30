@@ -1,11 +1,10 @@
----
-title: Building with MCP, for Real
-source: jakeworth.com
-url: https://jakeworth.com/posts/building-with-mcp-for-real/
-researched_at: 2026-01-27T00:00:00Z
----
-
 # Building with MCP, for Real
+
+| | |
+|---|---|
+| **Source** | jakeworth.com |
+| **URL** | [jakeworth.com/posts/building-with-mcp-for-real](https://jakeworth.com/posts/building-with-mcp-for-real/) |
+| **Researched** | 2026-01-27 |
 
 ## Overview
 

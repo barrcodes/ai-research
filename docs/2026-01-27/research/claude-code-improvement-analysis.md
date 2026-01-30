@@ -1,12 +1,10 @@
----
-title: Claude Code - Significant Improvements Over 6 Weeks
-source: Community Analysis & Developer Reports
-url: https://old.reddit.com/r/ClaudeAI/hot/
-researched_at: 2026-01-27T00:00:00Z
-fetch_method: web-search
----
-
 # Claude Code - Significant Improvements Over 6 Weeks
+
+| | |
+|---|---|
+| **Source** | Community Analysis & Developer Reports |
+| **URL** | [old.reddit.com/r/ClaudeAI/hot](https://old.reddit.com/r/ClaudeAI/hot/) |
+| **Researched** | 2026-01-27 |
 
 ## Overview
 

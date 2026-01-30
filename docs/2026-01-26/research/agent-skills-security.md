@@ -1,11 +1,10 @@
----
-title: Agent Skills in the Wild - An Empirical Study of Security Vulnerabilities at Scale
-source: arXiv
-url: https://arxiv.org/abs/2601.10338
-researched_at: 2026-01-26T00:00:00Z
----
-
 # Agent Skills in the Wild: An Empirical Study of Security Vulnerabilities at Scale
+
+| | |
+|---|---|
+| **Source** | arXiv |
+| **URL** | [arxiv.org/abs/2601.10338](https://arxiv.org/abs/2601.10338) |
+| **Researched** | 2026-01-26 |
 
 ## Overview
 

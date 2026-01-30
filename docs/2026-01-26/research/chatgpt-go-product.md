@@ -1,12 +1,10 @@
----
-title: Introducing ChatGPT Go, now available worldwide
-source: OpenAI
-url: https://openai.com/index/introducing-chatgpt-go/
-researched_at: 2026-01-26T00:00:00Z
-fetch_method: web-search
----
+# Introducing ChatGPT Go, now available worldwide
 
-# ChatGPT Go: Global Lightweight Tier Launch
+| | |
+|---|---|
+| **Source** | OpenAI |
+| **URL** | [openai.com/index/introducing-chatgpt-go/](https://openai.com/index/introducing-chatgpt-go/) |
+| **Researched** | 2026-01-26 |
 
 ## Overview
 

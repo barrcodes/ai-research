@@ -1,11 +1,10 @@
----
-title: D4RT - Teaching AI to see the world in four dimensions
-source: Google DeepMind
-url: https://deepmind.google/blog/d4rt-teaching-ai-see-the-world-in-four-dimensions/
-researched_at: 2026-01-26T00:00:00Z
----
-
 # D4RT: Teaching AI to See the World in Four Dimensions
+
+| | |
+|---|---|
+| **Source** | Google DeepMind |
+| **URL** | [deepmind.google/blog/d4rt-teaching-ai-see-the-world-in-four-dimensions](https://deepmind.google/blog/d4rt-teaching-ai-see-the-world-in-four-dimensions/) |
+| **Researched** | 2026-01-26 |
 
 ## Overview
 

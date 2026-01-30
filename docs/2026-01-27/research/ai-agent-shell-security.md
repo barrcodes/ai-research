@@ -1,12 +1,10 @@
----
-title: "AI Agent Shell Access Gone Wrong: The Buck Shlegeris Boot Sequence Incident"
-source: The Register / Redwood Research
-url: https://www.theregister.com/2024/10/02/ai_agent_trashes_pc/
-researched_at: 2026-01-27T00:00:00Z
-fetch_method: web-search
----
-
 # AI Agent Shell Access Gone Wrong: The Buck Shlegeris Boot Sequence Incident
+
+| | |
+|---|---|
+| **Source** | The Register / Redwood Research |
+| **URL** | [theregister.com/2024/10/02/ai_agent_trashes_pc](https://www.theregister.com/2024/10/02/ai_agent_trashes_pc/) |
+| **Researched** | 2026-01-27 |
 
 ## Overview
 

@@ -1,13 +1,10 @@
----
-title: Generating skills for api+local CUAs via noVNC demonstration recording MCP
-source: Reddit r/LocalLLaMA
-url: https://www.reddit.com/r/LocalLLaMA/
-researched_at: 2026-01-26T00:00:00Z
-fetch_method: web-search-synthesis
-note: Original Reddit post not found in search index; content synthesized from related technical sources
----
-
 # Generating Skills for API+Local CUAs via noVNC Demonstration Recording MCP
+
+| | |
+|---|---|
+| **Source** | Reddit r/LocalLLaMA |
+| **URL** | [reddit.com/r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/) |
+| **Researched** | 2026-01-26 |
 
 ## Overview
 
@@ -116,8 +113,6 @@ This research explores the intersection of skill generation for Computer Use Age
 - [How I Built a Tool-Calling Llama Agent with a Custom MCP Server - Level Up Coding](https://levelup.gitconnected.com/how-i-built-a-tool-calling-llama-agent-with-a-custom-mcp-server-3bc057d27e85) - Practical implementation of MCP + local Llama
 - [noVNC API Documentation - GitHub](https://github.com/novnc/noVNC/blob/master/docs/API.md) - Browser-based VNC client programmatic interface
 - [Awesome Local LLM - GitHub](https://github.com/rafska/awesome-local-llm) - Curated resources for running LLMs locally
-
----
 
 ## Research Note
 

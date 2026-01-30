@@ -1,12 +1,10 @@
----
-title: Andrej Karpathy on Claude Coding Capabilities - Field Notes
-source: X/Twitter
-url: https://x.com/karpathy/status/2015883857489522876
-researched_at: 2026-01-28T00:00:00Z
-fetch_method: playwright
----
-
 # Andrej Karpathy on Claude Coding Capabilities
+
+| | |
+|---|---|
+| **Source** | X/Twitter |
+| **URL** | [x.com/karpathy/status/2015883857489522876](https://x.com/karpathy/status/2015883857489522876) |
+| **Researched** | 2026-01-28 |
 
 ## Overview
 

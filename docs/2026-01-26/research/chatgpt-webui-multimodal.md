@@ -1,11 +1,10 @@
----
-title: OSS ChatGPT WebUI – 530 Models, MCP, Tools, Gemini RAG, Image/Audio Gen
-source: llmspy.org
-url: https://llmspy.org/docs/v3
-researched_at: 2026-01-26T00:00:00Z
----
-
 # OSS ChatGPT WebUI – 530 Models, MCP, Tools, Gemini RAG, Image/Audio Gen
+
+| | |
+|---|---|
+| **Source** | llmspy.org |
+| **URL** | [llmspy.org/docs/v3](https://llmspy.org/docs/v3) |
+| **Researched** | 2026-01-26 |
 
 ## Overview
 

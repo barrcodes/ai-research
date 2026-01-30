@@ -1,11 +1,10 @@
----
-title: CUGA on Hugging Face: Democratizing Configurable AI Agents
-source: Hugging Face Blog (IBM Research)
-url: https://huggingface.co/blog/ibm-research/cuga-on-hugging-face
-researched_at: 2026-01-26T00:00:00Z
----
-
 # CUGA on Hugging Face: Democratizing Configurable AI Agents
+
+| | |
+|---|---|
+| **Source** | Hugging Face Blog (IBM Research) |
+| **URL** | [huggingface.co/blog/ibm-research/cuga-on-hugging-face](https://huggingface.co/blog/ibm-research/cuga-on-hugging-face) |
+| **Researched** | 2026-01-26 |
 
 ## Overview
 

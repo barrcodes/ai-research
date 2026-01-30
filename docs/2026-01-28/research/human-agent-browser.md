@@ -1,11 +1,10 @@
----
-title: One Human + One Agent = Browser in 20K LOC
-source: emsh.cat
-url: https://emsh.cat/one-human-one-agent-one-browser/
-researched_at: 2026-01-28T00:00:00Z
----
-
 # One Human + One Agent = Browser in 20K LOC
+
+| | |
+|---|---|
+| **Source** | emsh.cat |
+| **URL** | [emsh.cat/one-human-one-agent-one-browser/](https://emsh.cat/one-human-one-agent-one-browser/) |
+| **Researched** | 2026-01-28 |
 
 ## Overview
 

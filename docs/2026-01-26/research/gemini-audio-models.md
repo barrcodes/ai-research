@@ -1,11 +1,10 @@
----
-title: Improved Gemini audio models for powerful voice experiences
-source: Google Blog
-url: https://blog.google/products/gemini/gemini-audio-model-updates/
-researched_at: 2026-01-26T00:00:00Z
----
-
 # Improved Gemini Audio Models for Powerful Voice Experiences
+
+| | |
+|---|---|
+| **Source** | Google Blog |
+| **URL** | [blog.google/products/gemini/gemini-audio-model-updates](https://blog.google/products/gemini/gemini-audio-model-updates/) |
+| **Researched** | 2026-01-26 |
 
 ## Overview
 

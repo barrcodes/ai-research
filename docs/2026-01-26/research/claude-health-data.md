@@ -1,12 +1,10 @@
----
-title: Claude can now securely connect to your health data
-source: Reddit r/ClaudeAI
-url: https://www.reddit.com/r/ClaudeAI/
-researched_at: 2026-01-26T00:00:00Z
-fetch_method: web-search
----
-
 # Claude Can Now Securely Connect to Your Health Data
+
+| | |
+|---|---|
+| **Source** | Reddit r/ClaudeAI |
+| **URL** | [reddit.com/r/ClaudeAI](https://www.reddit.com/r/ClaudeAI/) |
+| **Researched** | 2026-01-26 |
 
 ## Overview
 

@@ -1,12 +1,10 @@
----
-title: Comprehensive Coding Agent Evaluation - 49 Model and Agent Combinations
-source: r/LocalLLaMA (lemon07r)
-url: https://old.reddit.com/r/LocalLLaMA/comments/1qp4ftj/i_made_a_coding_eval_and_ran_it_against_49/
-researched_at: 2026-01-28T00:00:00Z
-fetch_method: concurrent-browser
----
-
 # Comprehensive Coding Agent Evaluation - 49 Model and Agent Combinations
+
+| | |
+|---|---|
+| **Source** | r/LocalLLaMA (lemon07r) |
+| **URL** | [old.reddit.com/r/LocalLLaMA/comments/1qp4ftj/i_made_a_coding_eval_and_ran_it_against_49](https://old.reddit.com/r/LocalLLaMA/comments/1qp4ftj/i_made_a_coding_eval_and_ran_it_against_49/) |
+| **Researched** | 2026-01-28 |
 
 ## Overview
 

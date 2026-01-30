@@ -1,11 +1,10 @@
----
-title: Start building with Gemini 3
-source: Google Developers Blog
-url: https://blog.google/technology/developers/gemini-3-developers/
-researched_at: 2026-01-26T00:00:00Z
----
-
 # Start Building with Gemini 3
+
+| | |
+|---|---|
+| **Source** | Google Developers Blog |
+| **URL** | [blog.google/technology/developers/gemini-3-developers](https://blog.google/technology/developers/gemini-3-developers/) |
+| **Researched** | 2026-01-26 |
 
 ## Overview
 
@@ -80,10 +79,3 @@ response = client.models.generate_content(
 - [Getting Started with Gemini 3 Flash](https://cloud.google.com/blog/topics/developers-practitioners/getting-started-with-gemini-3-hello-world-with-gemini-3-flash) - Quick start guide
 - [Gemini Code Assist with Gemini 3](https://developers.google.com/gemini-code-assist/docs/gemini-3) - IDE integration
 - [Partner & Library Integrations](https://ai.google.dev/gemini-api/docs/partner-integration) - Third-party SDK support
-
----
-
-**Sources**:
-- [Gemini 3 Developer Guide | Google AI for Developers](https://ai.google.dev/gemini-api/docs/gemini-3)
-- [New Gemini API updates for Gemini 3 - Google Developers Blog](https://developers.googleblog.com/new-gemini-api-updates-for-gemini-3/)
-- [Getting Started with Gemini 3 Flash](https://cloud.google.com/blog/topics/developers-practitioners/getting-started-with-gemini-3-hello-world-with-gemini-3-flash)

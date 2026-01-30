@@ -1,13 +1,10 @@
----
-title: Using Claude to Extract Bloomberg-Quality Financial Data from SEC Filings
-source: Reddit r/ClaudeAI / Anthropic Financial Services Documentation
-url: https://www.reddit.com/r/ClaudeAI/
-researched_at: 2026-01-26T00:00:00Z
-fetch_method: web-search
-note: Specific Reddit post not found; summary compiled from Claude for Financial Services documentation and related financial data extraction research
----
-
 # Using Claude to Extract Bloomberg-Quality Financial Data from SEC Filings
+
+| | |
+|---|---|
+| **Source** | Reddit r/ClaudeAI / Anthropic Financial Services Documentation |
+| **URL** | [reddit.com/r/ClaudeAI](https://www.reddit.com/r/ClaudeAI/) |
+| **Researched** | 2026-01-26 |
 
 ## Overview
 

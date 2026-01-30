@@ -1,12 +1,10 @@
----
-title: "DeepSeek V4: Multimodal Capability Analysis and Clarification"
-source: Reddit LocalLLaMA community speculation
-url: https://old.reddit.com/r/LocalLLaMA/hot/
-researched_at: 2026-01-27T00:00:00Z
-fetch_method: web-search
----
-
 # DeepSeek V4: Multimodal Capability Analysis and Clarification
+
+| | |
+|---|---|
+| **Source** | Reddit LocalLLaMA community speculation |
+| **URL** | [old.reddit.com/r/LocalLLaMA/hot](https://old.reddit.com/r/LocalLLaMA/hot/) |
+| **Researched** | 2026-01-27 |
 
 ## Overview
 

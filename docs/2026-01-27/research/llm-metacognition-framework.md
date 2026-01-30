@@ -1,11 +1,10 @@
----
-title: Scientists developed math framework to give LLM metacognition
-source: TechXplore
-url: https://techxplore.com/news/2026-01-artificial-metacognition-ai-ability.html
-researched_at: 2026-01-27T00:00:00Z
----
+# Scientists developed math framework to give LLM metacognition
 
-# Scientists Developed Math Framework to Give LLM Metacognition
+| | |
+|---|---|
+| **Source** | TechXplore |
+| **URL** | [techxplore.com/news/2026-01-artificial-metacognition-ai-ability.html](https://techxplore.com/news/2026-01-artificial-metacognition-ai-ability.html) |
+| **Researched** | 2026-01-27 |
 
 ## Overview
 

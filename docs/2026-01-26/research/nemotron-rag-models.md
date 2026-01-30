@@ -1,11 +1,10 @@
----
-title: Small Yet Mighty - Improve Accuracy In Multimodal Search and Visual Document Retrieval with Llama Nemotron RAG Models
-source: NVIDIA/Hugging Face
-url: https://huggingface.co/blog/nvidia/llama-nemotron-vl-1b
-researched_at: 2026-01-26T00:00:00Z
----
-
 # Small Yet Mighty: Llama Nemotron RAG Models for Multimodal Document Retrieval
+
+| | |
+|---|---|
+| **Source** | NVIDIA/Hugging Face |
+| **URL** | [huggingface.co/blog/nvidia/llama-nemotron-vl-1b](https://huggingface.co/blog/nvidia/llama-nemotron-vl-1b) |
+| **Researched** | 2026-01-26 |
 
 ## Overview
 

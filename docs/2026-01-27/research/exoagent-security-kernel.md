@@ -1,11 +1,10 @@
----
-title: Show HN: ExoAgent – Security kernel for AI agents. Steal my $1K BTC (Live CTF)
-source: Hacker News
-url: https://news.ycombinator.com/item?id=46780495
-researched_at: 2026-01-27T00:00:00Z
----
-
 # ExoAgent – Security Kernel for AI Agents
+
+| | |
+|---|---|
+| **Source** | Hacker News |
+| **URL** | [news.ycombinator.com/item?id=46780495](https://news.ycombinator.com/item?id=46780495) |
+| **Researched** | 2026-01-27 |
 
 ## Overview
 

@@ -1,11 +1,10 @@
----
-title: ExecuTorch Adoption in Reality Labs: Powering On-Device AI Across Meta Devices
-source: Meta AI Blog
-url: https://ai.meta.com/blog/executorch-reality-labs-on-device-ai/
-researched_at: 2026-01-26T00:00:00Z
----
-
 # ExecuTorch Adoption in Reality Labs: Powering On-Device AI Across Meta Devices
+
+| | |
+|---|---|
+| **Source** | Meta AI Blog |
+| **URL** | [ai.meta.com/blog/executorch-reality-labs-on-device-ai](https://ai.meta.com/blog/executorch-reality-labs-on-device-ai/) |
+| **Researched** | 2026-01-26 |
 
 ## Overview
 

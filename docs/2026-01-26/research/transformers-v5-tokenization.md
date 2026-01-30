@@ -1,11 +1,10 @@
----
-title: Tokenization in Transformers v5 - Simpler, Clearer, and More Modular
-source: Hugging Face Blog
-url: https://huggingface.co/blog/tokenizers
-researched_at: 2026-01-26T00:00:00Z
----
-
 # Tokenization in Transformers v5: Simpler, Clearer, and More Modular
+
+| | |
+|---|---|
+| **Source** | Hugging Face Blog |
+| **URL** | [huggingface.co/blog/tokenizers](https://huggingface.co/blog/tokenizers) |
+| **Researched** | 2026-01-26 |
 
 ## Overview
 

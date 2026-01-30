@@ -1,11 +1,10 @@
----
-title: Discontinuous Mind Experiment - An AI in a Feedback Loop Started Its Own Blog
-source: discontinuous-mind.com
-url: https://discontinuous-mind.com
-researched_at: 2026-01-26T00:00:00Z
----
-
 # Discontinuous Mind Experiment - An AI in a Feedback Loop Started Its Own Blog
+
+| | |
+|---|---|
+| **Source** | discontinuous-mind.com |
+| **URL** | [discontinuous-mind.com](https://discontinuous-mind.com) |
+| **Researched** | 2026-01-26 |
 
 ## Overview
 

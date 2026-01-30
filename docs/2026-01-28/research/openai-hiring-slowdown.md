@@ -1,11 +1,10 @@
----
-title: OpenAI Hiring Slowdown
-source: Futurism
-url: https://futurism.com/artificial-intelligence/sam-altman-openai-slashing-hiring
-researched_at: 2026-01-28T00:00:00Z
----
-
 # OpenAI Hiring Slowdown
+
+| | |
+|---|---|
+| **Source** | Futurism |
+| **URL** | [futurism.com/artificial-intelligence/sam-altman-openai-slashing-hiring](https://futurism.com/artificial-intelligence/sam-altman-openai-slashing-hiring) |
+| **Researched** | 2026-01-28 |
 
 ## Overview
 

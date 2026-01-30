@@ -1,11 +1,10 @@
----
-title: Alyah - Toward Robust Evaluation of Emirati Dialect Capabilities in Arabic LLMs
-source: HuggingFace Blog (TIIUAE)
-url: https://huggingface.co/blog/tiiuae/emirati-benchmarks
-researched_at: 2026-01-27T00:00:00Z
----
-
 # Alyah: Toward Robust Evaluation of Emirati Dialect Capabilities in Arabic LLMs
+
+| | |
+|---|---|
+| **Source** | HuggingFace Blog (TIIUAE) |
+| **URL** | [huggingface.co/blog/tiiuae/emirati-benchmarks](https://huggingface.co/blog/tiiuae/emirati-benchmarks) |
+| **Researched** | 2026-01-27 |
 
 ## Overview
 

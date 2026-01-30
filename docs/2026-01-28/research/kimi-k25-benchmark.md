@@ -1,12 +1,10 @@
----
-title: Kimi K2.5 Benchmark Analysis - Best Open Model for Coding
-source: r/LocalLLaMA
-url: https://old.reddit.com/r/LocalLLaMA/comments/1qp87tk/kimi_k25_is_the_best_open_model_for_coding/
-researched_at: 2026-01-28T12:00:00Z
-fetch_method: concurrent-browser
----
+# Kimi K2.5 Benchmark Analysis - Best Open Model for Coding
 
-# Kimi K2.5 Benchmark Analysis
+| | |
+|---|---|
+| **Source** | r/LocalLLaMA |
+| **URL** | [old.reddit.com/r/LocalLLaMA/comments/1qp87tk/kimi_k25_is_the_best_open_model_for_coding](https://old.reddit.com/r/LocalLLaMA/comments/1qp87tk/kimi_k25_is_the_best_open_model_for_coding/) |
+| **Researched** | 2026-01-28 |
 
 ## Overview
 
@@ -110,4 +108,3 @@ Kimi coding plan: ~120-130 requests per run on OpenCode/Claude Code, $0.30/run o
 - Medium-complexity feature implementation and debugging
 - Web development and UI/UX coding
 - NOT recommended: Infrastructure code requiring domain specialization (GPT-5.2 preferred), highly iterative sessions requiring consistency
-

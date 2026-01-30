@@ -1,11 +1,10 @@
----
-title: OptiMind - Research model designed for optimization
-source: Microsoft Research / Hugging Face
-url: https://huggingface.co/blog/microsoft/optimind
-researched_at: 2026-01-26T00:00:00Z
----
-
 # OptiMind: A 20B Specialized Model for Optimization
+
+| | |
+|---|---|
+| **Source** | Microsoft Research / Hugging Face |
+| **URL** | [huggingface.co/blog/microsoft/optimind](https://huggingface.co/blog/microsoft/optimind) |
+| **Researched** | 2026-01-26 |
 
 ## Overview
 

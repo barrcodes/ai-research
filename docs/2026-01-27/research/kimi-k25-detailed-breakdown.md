@@ -1,12 +1,10 @@
----
-title: Kimi K2.5 - Visual Agentic Intelligence
-source: Reddit r/LocalLLaMA, MoonshotAI Official Blog
-url: https://old.reddit.com/r/LocalLLaMA/comments/
-researched_at: 2026-01-27T00:00:00Z
-fetch_method: web-search
----
-
 # Kimi K2.5: Visual Agentic Intelligence - Technical Breakdown
+
+| | |
+|---|---|
+| **Source** | Reddit r/LocalLLaMA, MoonshotAI Official Blog |
+| **URL** | [old.reddit.com/r/LocalLLaMA/comments](https://old.reddit.com/r/LocalLLaMA/comments/) |
+| **Researched** | 2026-01-27 |
 
 ## Overview
 

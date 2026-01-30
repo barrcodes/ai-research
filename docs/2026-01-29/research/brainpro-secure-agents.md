@@ -1,11 +1,10 @@
----
-title: "BrainPro: OpenCode and mullbot, in Rust – secure agentic platform"
-source: GitHub (jgarzik/brainpro)
-url: https://github.com/jgarzik/brainpro
-researched_at: 2026-01-29T00:00:00Z
----
-
 # BrainPro: Secure Agentic Platform in Rust
+
+| | |
+|---|---|
+| **Source** | GitHub (jgarzik/brainpro) |
+| **URL** | [github.com/jgarzik/brainpro](https://github.com/jgarzik/brainpro) |
+| **Researched** | 2026-01-29 |
 
 ## Overview
 

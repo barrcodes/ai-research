@@ -1,11 +1,10 @@
----
-title: Knowledge Graphs are Implicit Reward Models - Path-Derived Signals Enable Compositional Reasoning
-source: arXiv
-url: https://arxiv.org/abs/2601.15160
-researched_at: 2026-01-29T00:00:00Z
----
-
 # Knowledge Graphs are Implicit Reward Models: Path-Derived Signals Enable Compositional Reasoning
+
+| | |
+|---|---|
+| **Source** | arXiv |
+| **URL** | [arxiv.org/abs/2601.15160](https://arxiv.org/abs/2601.15160) |
+| **Researched** | 2026-01-29 |
 
 ## Overview
 

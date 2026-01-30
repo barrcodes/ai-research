@@ -1,12 +1,10 @@
----
-title: AI System Architecture vs Individual Tools - The 2026 Inflection Point
-source: Multiple sources including industry analysis and enterprise strategy blogs
-url: https://davegoyal.com/composable-vs-monolithic-ai-the-architectural-debate-shaping-the-future-of-enterprise-ai/
-researched_at: 2026-01-28T00:00:00Z
-fetch_method: web-research-and-analysis
----
-
 # AI System Architecture vs Individual Tools - The 2026 Inflection Point
+
+| | |
+|---|---|
+| **Source** | Multiple sources including industry analysis and enterprise strategy blogs |
+| **URL** | [davegoyal.com/composable-vs-monolithic-ai-the-architectural-debate-shaping-the-future-of-enterprise-ai](https://davegoyal.com/composable-vs-monolithic-ai-the-architectural-debate-shaping-the-future-of-enterprise-ai/) |
+| **Researched** | 2026-01-28 |
 
 ## Overview
 

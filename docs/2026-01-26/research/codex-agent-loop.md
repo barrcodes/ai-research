@@ -1,12 +1,10 @@
----
-title: Unrolling the Codex agent loop
-source: OpenAI
-url: https://openai.com/index/unrolling-the-codex-agent-loop/
-researched_at: 2026-01-26T00:00:00Z
-fetch_method: web-search
----
-
 # Unrolling the Codex Agent Loop
+
+| | |
+|---|---|
+| **Source** | OpenAI |
+| **URL** | [openai.com/index/unrolling-the-codex-agent-loop/](https://openai.com/index/unrolling-the-codex-agent-loop/) |
+| **Researched** | 2026-01-26 |
 
 ## Overview
 

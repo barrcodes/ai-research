@@ -1,12 +1,10 @@
----
-title: Claude Code Team Shipping Features Written 100% by Opus 4.5
-source: Reddit r/singularity
-url: https://www.reddit.com/r/singularity/
-researched_at: 2026-01-26T00:00:00Z
-fetch_method: web-search
----
-
 # Claude Code Team Shipping Features Written 100% by Opus 4.5
+
+| | |
+|---|---|
+| **Source** | Reddit r/singularity |
+| **URL** | [reddit.com/r/singularity/](https://www.reddit.com/r/singularity/) |
+| **Researched** | 2026-01-26 |
 
 ## Overview
 

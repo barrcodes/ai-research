@@ -1,11 +1,10 @@
----
-title: Show HN - Figma MCP Without Tool Explosion – Let AI Execute JavaScript
-source: GitHub (youware-labs/figma-pilot)
-url: https://github.com/youware-labs/figma-pilot
-researched_at: 2026-01-29T00:00:00Z
----
-
 # Figma MCP Without Tool Explosion – Let AI Execute JavaScript
+
+| | |
+|---|---|
+| **Source** | GitHub (youware-labs/figma-pilot) |
+| **URL** | [github.com/youware-labs/figma-pilot](https://github.com/youware-labs/figma-pilot) |
+| **Researched** | 2026-01-29 |
 
 ## Overview
 

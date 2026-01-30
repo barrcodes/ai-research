@@ -1,11 +1,10 @@
----
-title: Trinity Large - Arcee AI's 400B Open-Weight Model
-source: Arcee AI Blog
-url: https://www.arcee.ai/blog/trinity-large
-researched_at: 2026-01-28T00:00:00Z
----
+# Trinity Large - Arcee AI's 400B Open-Weight Model
 
-# Trinity Large: Arcee AI's 400B Open-Weight Model
+| | |
+|---|---|
+| **Source** | Arcee AI Blog |
+| **URL** | [arcee.ai/blog/trinity-large](https://www.arcee.ai/blog/trinity-large) |
+| **Researched** | 2026-01-28 |
 
 ## Overview
 

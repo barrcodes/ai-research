@@ -1,11 +1,10 @@
----
-title: Embedding Robustness - Axiom Core's Invariant Layer
-source: GitHub - Architect-Flow78/axiom-core
-url: https://github.com/Architect-Flow78/axiom-core
-researched_at: 2026-01-28T00:00:00Z
----
-
 # Embedding Robustness: Axiom Core's Invariant Layer
+
+| | |
+|---|---|
+| **Source** | GitHub - Architect-Flow78/axiom-core |
+| **URL** | [github.com/Architect-Flow78/axiom-core](https://github.com/Architect-Flow78/axiom-core) |
+| **Researched** | 2026-01-28 |
 
 ## Overview
 

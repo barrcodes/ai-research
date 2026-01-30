@@ -1,11 +1,10 @@
----
-title: When AI 'builds a browser,' check the repo before believing the hype
-source: The Register
-url: https://www.theregister.com/2026/01/26/cursor_opinion/
-researched_at: 2026-01-26T00:00:00Z
----
-
 # When AI 'builds a browser,' check the repo before believing the hype
+
+| | |
+|---|---|
+| **Source** | The Register |
+| **URL** | [theregister.com/2026/01/26/cursor_opinion/](https://www.theregister.com/2026/01/26/cursor_opinion/) |
+| **Researched** | 2026-01-26 |
 
 ## Overview
 

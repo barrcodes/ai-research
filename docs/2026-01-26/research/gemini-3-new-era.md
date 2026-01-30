@@ -1,11 +1,10 @@
----
-title: A new era of intelligence with Gemini 3
-source: Google Blog
-url: https://blog.google/products/gemini/gemini-3/
-researched_at: 2026-01-26T00:00:00Z
----
-
 # A New Era of Intelligence with Gemini 3
+
+| | |
+|---|---|
+| **Source** | Google Blog |
+| **URL** | [blog.google/products/gemini/gemini-3](https://blog.google/products/gemini/gemini-3/) |
+| **Researched** | 2026-01-26 |
 
 ## Overview
 

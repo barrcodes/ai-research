@@ -1,12 +1,10 @@
----
-title: Rotary Position Embeddings in Vision Transformers
-source: Research Synthesis (Reddit r/MachineLearning, ECCV 2024, CVPR 2025)
-url: https://old.reddit.com/r/MachineLearning/hot/
-researched_at: 2026-01-28T14:35:00Z
-fetch_method: concurrent-browser + web-search
----
-
 # Rotary Position Embeddings in Vision Transformers
+
+| | |
+|---|---|
+| **Source** | Research Synthesis (Reddit r/MachineLearning, ECCV 2024, CVPR 2025) |
+| **URL** | [old.reddit.com/r/MachineLearning/hot](https://old.reddit.com/r/MachineLearning/hot/) |
+| **Researched** | 2026-01-28 |
 
 ## Overview
 

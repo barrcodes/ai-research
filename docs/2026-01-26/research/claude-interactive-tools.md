@@ -1,12 +1,10 @@
----
-title: Your work tools are now interactive in Claude
-source: Anthropic/Claude Blog
-url: https://claude.com/blog/interactive-tools-in-claude
-researched_at: 2026-01-26T00:00:00Z
-fetch_method: web-search
----
-
 # Your Work Tools Are Now Interactive in Claude
+
+| | |
+|---|---|
+| **Source** | Anthropic/Claude Blog |
+| **URL** | [claude.com/blog/interactive-tools-in-claude](https://claude.com/blog/interactive-tools-in-claude) |
+| **Researched** | 2026-01-26 |
 
 ## Overview
 

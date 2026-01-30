@@ -1,11 +1,10 @@
----
-title: A Better Practices Guide to Using Claude Code
-source: kylestratis.com
-url: https://kylestratis.com/posts/a-better-practices-guide-to-using-claude-code/
-researched_at: 2026-01-26T00:00:00Z
----
-
 # A Better Practices Guide to Using Claude Code
+
+| | |
+|---|---|
+| **Source** | kylestratis.com |
+| **URL** | [kylestratis.com/posts/a-better-practices-guide-to-using-claude-code/](https://kylestratis.com/posts/a-better-practices-guide-to-using-claude-code/) |
+| **Researched** | 2026-01-26 |
 
 ## Overview
 

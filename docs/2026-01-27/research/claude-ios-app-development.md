@@ -1,12 +1,10 @@
----
-title: Electrician by Day, iOS Developer by Night - Building Apps with Claude
-source: Hacker News / Community Reports
-url: https://news.ycombinator.com/item?id=46774587
-researched_at: 2026-01-27T00:00:00Z
-fetch_method: web-search
----
-
 # Electrician by Day, iOS Developer by Night - Building Apps with Claude
+
+| | |
+|---|---|
+| **Source** | Hacker News / Community Reports |
+| **URL** | [news.ycombinator.com/item?id=46774587](https://news.ycombinator.com/item?id=46774587) |
+| **Researched** | 2026-01-27 |
 
 ## Overview
 

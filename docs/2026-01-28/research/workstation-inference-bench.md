@@ -1,12 +1,10 @@
----
-title: High-End Workstation Inference Benchmarks - GPU vs CPU+GPU Trade-offs
-source: r/LocalLLaMA
-url: https://www.reddit.com/r/LocalLLaMA/comments/1qorbdk/dual_rtx_pro_6000_workstation_with_115tb_ram/
-researched_at: 2026-01-28T00:00:00Z
-fetch_method: concurrent-browser
----
-
 # High-End Workstation Inference Benchmarks: GPU vs CPU+GPU Trade-offs
+
+| | |
+|---|---|
+| **Source** | r/LocalLLaMA |
+| **URL** | [reddit.com/r/LocalLLaMA/comments/1qorbdk/dual_rtx_pro_6000_workstation_with_115tb_ram](https://www.reddit.com/r/LocalLLaMA/comments/1qorbdk/dual_rtx_pro_6000_workstation_with_115tb_ram/) |
+| **Researched** | 2026-01-28 |
 
 ## Overview
 

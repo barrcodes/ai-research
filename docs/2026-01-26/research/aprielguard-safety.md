@@ -1,11 +1,10 @@
----
-title: AprielGuard - A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems
-source: ServiceNow AI / Hugging Face Blog
-url: https://huggingface.co/blog/ServiceNow-AI/aprielguard
-researched_at: 2026-01-26T00:00:00Z
----
-
 # AprielGuard: Safety and Adversarial Robustness Guardrail
+
+| | |
+|---|---|
+| **Source** | ServiceNow AI / Hugging Face Blog |
+| **URL** | [huggingface.co/blog/ServiceNow-AI/aprielguard](https://huggingface.co/blog/ServiceNow-AI/aprielguard) |
+| **Researched** | 2026-01-26 |
 
 ## Overview
 

@@ -1,11 +1,10 @@
----
-title: RexRerankers - SOTA Rankers for Product Discovery and AI Assistants
-source: Hugging Face Blog
-url: https://huggingface.co/blog/thebajajra/rexrerankers
-researched_at: 2026-01-26T00:00:00Z
----
-
 # RexRerankers: SOTA Rankers for Product Discovery and AI Assistants
+
+| | |
+|---|---|
+| **Source** | Hugging Face Blog |
+| **URL** | [huggingface.co/blog/thebajajra/rexrerankers](https://huggingface.co/blog/thebajajra/rexrerankers) |
+| **Researched** | 2026-01-26 |
 
 ## Overview
 

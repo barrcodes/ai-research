@@ -1,11 +1,10 @@
----
-title: Anthropic partners with the UK Government to bring AI assistance to GOV.UK services
-source: Anthropic
-url: https://www.anthropic.com/news/gov-UK-partnership
-researched_at: 2026-01-29T00:00:00Z
----
-
 # Anthropic partners with the UK Government to bring AI assistance to GOV.UK services
+
+| | |
+|---|---|
+| **Source** | Anthropic |
+| **URL** | [anthropic.com/news/gov-UK-partnership](https://www.anthropic.com/news/gov-UK-partnership) |
+| **Researched** | 2026-01-29 |
 
 ## Overview
 Anthropic deployed an agentic Claude system with the UK's Department for Science, Innovation and Technology to power an AI assistant for GOV.UK. The system guides citizens through employment services and government processes with stateful context persistence and strict data control. This represents a production deployment of agentic AI in critical government infrastructure under the UK's "Scan, Pilot, Scale" framework.

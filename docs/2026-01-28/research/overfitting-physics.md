@@ -1,12 +1,10 @@
----
-title: Overfitting and Generalization in Physics Models
-source: r/MachineLearning
-url: https://old.reddit.com/r/MachineLearning/
-researched_at: 2026-01-28T14:38:00Z
-fetch_method: concurrent-browser
----
-
 # Overfitting and Generalization in Physics-Informed ML Models
+
+| | |
+|---|---|
+| **Source** | r/MachineLearning |
+| **URL** | [old.reddit.com/r/MachineLearning](https://old.reddit.com/r/MachineLearning/) |
+| **Researched** | 2026-01-28 |
 
 ## Overview
 

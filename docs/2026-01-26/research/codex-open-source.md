@@ -1,11 +1,10 @@
----
-title: Codex is Open Sourcing AI Models
-source: Hugging Face Blog
-url: https://huggingface.co/blog/hf-skills-training-codex
-researched_at: 2026-01-26T00:00:00Z
----
-
 # Codex is Open Sourcing AI Models
+
+| | |
+|---|---|
+| **Source** | Hugging Face Blog |
+| **URL** | [huggingface.co/blog/hf-skills-training-codex](https://huggingface.co/blog/hf-skills-training-codex) |
+| **Researched** | 2026-01-26 |
 
 ## Overview
 Hugging Face Skills integrates OpenAI's Codex with the Hugging Face ecosystem to enable end-to-end model training automation. This bridges AI agents directly into production ML workflows, allowing practitioners to delegate fine-tuning experiments to code interpreters that handle dataset validation, hardware selection, training orchestration, and model deployment.

@@ -1,12 +1,10 @@
----
-title: Introducing OpenAI for Healthcare
-source: OpenAI
-url: https://openai.com/index/introducing-openai-for-healthcare/
-researched_at: 2026-01-26T00:00:00Z
-fetch_method: web-research
----
-
 # Introducing OpenAI for Healthcare
+
+| | |
+|---|---|
+| **Source** | OpenAI |
+| **URL** | [openai.com/index/introducing-openai-for-healthcare/](https://openai.com/index/introducing-openai-for-healthcare/) |
+| **Researched** | 2026-01-26 |
 
 ## Overview
 

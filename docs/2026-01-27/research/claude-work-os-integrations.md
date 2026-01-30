@@ -1,12 +1,10 @@
----
-title: Claude Launches MCP Apps - Interactive Work OS with Slack, Figma, and Asana
-source: Anthropic / Reddit Discussion
-url: https://old.reddit.com/r/ClaudeAI/hot/
-researched_at: 2026-01-27T00:00:00Z
-fetch_method: web-search
----
-
 # Claude Launches MCP Apps - Interactive Work OS with Slack, Figma, and Asana
+
+| | |
+|---|---|
+| **Source** | Anthropic / Reddit Discussion |
+| **URL** | [old.reddit.com/r/ClaudeAI/hot](https://old.reddit.com/r/ClaudeAI/hot/) |
+| **Researched** | 2026-01-27 |
 
 ## Overview
 

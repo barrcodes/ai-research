@@ -1,12 +1,10 @@
----
-title: Claude Code 2.1.21 Release
-source: Reddit - r/ClaudeAI
-url: https://old.reddit.com/r/ClaudeAI/comments/1qp2w7q/official_anthropic_just_released_claude_code_2121/
-researched_at: 2026-01-28T00:00:00Z
-fetch_method: concurrent-browser
----
-
 # Claude Code 2.1.21 Release
+
+| | |
+|---|---|
+| **Source** | Reddit - r/ClaudeAI |
+| **URL** | [old.reddit.com/r/ClaudeAI/comments/1qp2w7q/official_anthropic_just_released_claude_code_2121/](https://old.reddit.com/r/ClaudeAI/comments/1qp2w7q/official_anthropic_just_released_claude_code_2121/) |
+| **Researched** | 2026-01-28 |
 
 ## Overview
 

@@ -1,12 +1,10 @@
----
-title: Enterprise AI Tool Implementation Challenges
-source: Reddit communities (r/artificial, r/MachineLearning), Industry research (Constellation Research, InformationWeek, Gartner)
-url: https://old.reddit.com/r/artificial/hot/
-researched_at: 2026-01-28T14:35:00Z
-fetch_method: concurrent-browser
----
-
 # Enterprise AI Tool Implementation Challenges
+
+| | |
+|---|---|
+| **Source** | Reddit communities (r/artificial, r/MachineLearning), Industry research (Constellation Research, InformationWeek, Gartner) |
+| **URL** | [old.reddit.com/r/artificial/hot](https://old.reddit.com/r/artificial/hot/) |
+| **Researched** | 2026-01-28 |
 
 ## Overview
 

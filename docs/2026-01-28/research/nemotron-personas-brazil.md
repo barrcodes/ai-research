@@ -1,11 +1,10 @@
----
-title: Nemotron-Personas-Brazil - Sovereign AI Development
-source: Hugging Face Blog / NVIDIA
-url: https://huggingface.co/blog/nvidia/nemotron-personas-brazil
-researched_at: 2026-01-28T00:00:00Z
----
-
 # Nemotron-Personas-Brazil: Sovereign AI Development
+
+| | |
+|---|---|
+| **Source** | Hugging Face Blog / NVIDIA |
+| **URL** | [huggingface.co/blog/nvidia/nemotron-personas-brazil](https://huggingface.co/blog/nvidia/nemotron-personas-brazil) |
+| **Researched** | 2026-01-28 |
 
 ## Overview
 

@@ -1,12 +1,10 @@
----
-title: Claude Usage Limits and Performance Megathread Executive Summary
-source: Reddit r/ClaudeAI Megathread
-url: https://old.reddit.com/r/ClaudeAI/comments/1pygdbz/usage_limits_bugs_and_performance_discussion/
-researched_at: 2026-01-28T14:30:00Z
-fetch_method: concurrent-browser
----
-
 # Claude Usage Limits and Performance Megathread Executive Summary
+
+| | |
+|---|---|
+| **Source** | Reddit r/ClaudeAI Megathread |
+| **URL** | [old.reddit.com/r/ClaudeAI/comments/1pygdbz/usage_limits_bugs_and_performance_discussion/](https://old.reddit.com/r/ClaudeAI/comments/1pygdbz/usage_limits_bugs_and_performance_discussion/) |
+| **Researched** | 2026-01-28 |
 
 ## Overview
 

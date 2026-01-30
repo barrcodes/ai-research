@@ -1,11 +1,10 @@
----
-title: Kimi Released Kimi K2.5, Open-Source Visual SOTA-Agentic Model
-source: Hacker News
-url: https://news.ycombinator.com/item?id=46775961
-researched_at: 2026-01-27T00:00:00Z
----
+# Kimi Released Kimi K2.5, Open-Source Visual SOTA-Agentic Model
 
-# Kimi K2.5: Open-Source Agentic LLM
+| | |
+|---|---|
+| **Source** | Hacker News |
+| **URL** | [news.ycombinator.com/item?id=46775961](https://news.ycombinator.com/item?id=46775961) |
+| **Researched** | 2026-01-27 |
 
 ## Overview
 

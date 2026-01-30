@@ -1,11 +1,10 @@
----
-title: Heimdall – Open Source Observability Platform for MCP servers and apps
-source: GitHub (hmdl-inc/heimdall)
-url: https://github.com/hmdl-inc/heimdall
-researched_at: 2026-01-29T00:00:00Z
----
-
 # Heimdall – Open Source Observability Platform for MCP servers and apps
+
+| | |
+|---|---|
+| **Source** | GitHub (hmdl-inc/heimdall) |
+| **URL** | [github.com/hmdl-inc/heimdall](https://github.com/hmdl-inc/heimdall) |
+| **Researched** | 2026-01-29 |
 
 ## Overview
 

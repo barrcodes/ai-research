@@ -1,11 +1,10 @@
----
-title: Building Trustworthy Agents with Rigorous Evaluation
-source: Kerno
-url: https://www.kerno.io/blog/building-trustworthy-agents-with-rigorous-evaluation-frameworks
-researched_at: 2026-01-28T00:00:00Z
----
-
 # Building Trustworthy Agents with Rigorous Evaluation
+
+| | |
+|---|---|
+| **Source** | Kerno |
+| **URL** | [kerno.io/blog/building-trustworthy-agents-with-rigorous-evaluation-frameworks](https://www.kerno.io/blog/building-trustworthy-agents-with-rigorous-evaluation-frameworks) |
+| **Researched** | 2026-01-28 |
 
 ## Overview
 

@@ -1,11 +1,10 @@
----
-title: Anthropic Partners with UK Government to Bring AI Assistance to GOV.UK Services
-source: Anthropic
-url: https://www.anthropic.com/news/gov-UK-partnership
-researched_at: 2026-01-27T00:00:00Z
----
-
 # Anthropic Partners with UK Government to Bring AI Assistance to GOV.UK Services
+
+| | |
+|---|---|
+| **Source** | Anthropic |
+| **URL** | [anthropic.com/news/gov-UK-partnership](https://www.anthropic.com/news/gov-UK-partnership) |
+| **Researched** | 2026-01-27 |
 
 ## Overview
 

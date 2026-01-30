@@ -1,12 +1,10 @@
----
-title: Nanbeige4-3B-Thinking-2511 is great for summarization
-source: Reddit r/LocalLLaMA (post not found - compiled from technical sources)
-url: https://www.reddit.com/r/LocalLLaMA/
-researched_at: 2026-01-26T00:00:00Z
-fetch_method: web-search
----
-
 # Nanbeige4-3B-Thinking-2511 is great for summarization
+
+| | |
+|---|---|
+| **Source** | Reddit r/LocalLLaMA (post not found - compiled from technical sources) |
+| **URL** | [reddit.com/r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/) |
+| **Researched** | 2026-01-26 |
 
 ## Overview
 

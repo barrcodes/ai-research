@@ -1,11 +1,10 @@
----
-title: Nvidia is bringing the transformer architecture behind large language models (LLMs) to meteorology with two new open-source models
-source: The New Stack
-url: https://thenewstack.io/nvidia-makes-ai-weather-forecasting-more-accessible-no-supercomputer-needed/
-researched_at: 2026-01-26T00:00:00Z
----
-
 # Nvidia Brings Transformer Architecture to Weather Forecasting
+
+| | |
+|---|---|
+| **Source** | The New Stack |
+| **URL** | [thenewstack.io/nvidia-makes-ai-weather-forecasting-more-accessible-no-supercomputer-needed/](https://thenewstack.io/nvidia-makes-ai-weather-forecasting-more-accessible-no-supercomputer-needed/) |
+| **Researched** | 2026-01-26 |
 
 ## Overview
 

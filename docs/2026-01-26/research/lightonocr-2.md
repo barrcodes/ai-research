@@ -1,11 +1,10 @@
----
-title: LightOnOCR-2-1B - Lightweight High-Performance End-to-End OCR Model Family
-source: Hugging Face Blog - LightOnAI
-url: https://huggingface.co/blog/lightonai/lightonocr-2
-researched_at: 2026-01-26T00:00:00Z
----
-
 # LightOnOCR-2-1B: Lightweight High-Performance End-to-End OCR Model Family
+
+| | |
+|---|---|
+| **Source** | Hugging Face Blog - LightOnAI |
+| **URL** | [huggingface.co/blog/lightonai/lightonocr-2](https://huggingface.co/blog/lightonai/lightonocr-2) |
+| **Researched** | 2026-01-26 |
 
 ## Overview
 LightOnOCR-2-1B is a 1B-parameter end-to-end vision-language OCR model that achieves state-of-the-art transcription quality while delivering 3-5x performance improvements over comparable systems. Unlike traditional multi-stage OCR pipelines, this model produces naturally ordered text directly from document images with optional layout-aware features, making it production-ready for enterprise document digitization.

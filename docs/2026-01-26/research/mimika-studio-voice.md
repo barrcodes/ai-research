@@ -1,11 +1,10 @@
----
-title: MimikaStudio - Native macOS Voice Cloning Application
-source: GitHub Repository
-url: https://github.com/BoltzmannEntropy/MimikaStudio
-researched_at: 2026-01-26T00:00:00Z
----
-
 # MimikaStudio: Native macOS Voice Cloning Application
+
+| | |
+|---|---|
+| **Source** | GitHub Repository |
+| **URL** | [github.com/BoltzmannEntropy/MimikaStudio](https://github.com/BoltzmannEntropy/MimikaStudio) |
+| **Researched** | 2026-01-26 |
 
 ## Overview
 

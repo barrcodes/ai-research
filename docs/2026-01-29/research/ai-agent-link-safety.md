@@ -1,11 +1,10 @@
----
-title: Keeping your data safe when an AI agent clicks a link
-source: OpenAI
-url: https://openai.com/index/ai-agent-link-safety/
-researched_at: 2026-01-29T00:00:00Z
----
-
 # Keeping Your Data Safe When an AI Agent Clicks a Link
+
+| | |
+|---|---|
+| **Source** | OpenAI |
+| **URL** | [openai.com/index/ai-agent-link-safety](https://openai.com/index/ai-agent-link-safety/) |
+| **Researched** | 2026-01-29 |
 
 ## Overview
 

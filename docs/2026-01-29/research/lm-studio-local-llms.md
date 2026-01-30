@@ -1,11 +1,10 @@
----
-title: LM Studio 0.4
-source: LM Studio Blog
-url: https://lmstudio.ai/blog/0.4.0
-researched_at: 2026-01-29T00:00:00Z
----
-
 # LM Studio 0.4: Enterprise-Grade Local LLM Infrastructure
+
+| | |
+|---|---|
+| **Source** | LM Studio Blog |
+| **URL** | [lmstudio.ai/blog/0.4.0](https://lmstudio.ai/blog/0.4.0) |
+| **Researched** | 2026-01-29 |
 
 ## Overview
 

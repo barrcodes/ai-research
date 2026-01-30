@@ -1,11 +1,10 @@
----
-title: Porting 100k Lines from TypeScript to Rust Using Claude Code in a Month
-source: Hacker News
-url: https://news.ycombinator.com/item?id=46765694
-researched_at: 2026-01-27T00:00:00Z
----
-
 # Porting 100k Lines from TypeScript to Rust Using Claude Code in a Month
+
+| | |
+|---|---|
+| **Source** | Hacker News |
+| **URL** | [news.ycombinator.com/item?id=46765694](https://news.ycombinator.com/item?id=46765694) |
+| **Researched** | 2026-01-27 |
 
 ## Overview
 

@@ -1,13 +1,10 @@
----
-title: Claude Code Filesystem Implementation and VFS Concepts
-source: Multiple sources (Web research)
-url: https://www.reddit.com/r/LocalLLaMA/
-researched_at: 2026-01-26T00:00:00Z
-fetch_method: web-search
-note: Specific post "Building a virtual file system for Claude Code" not found on r/LocalLLaMA. Summary based on related discussions about Claude Code filesystem architecture and VFS implementations.
----
-
 # Claude Code Filesystem Implementation and VFS Concepts
+
+| | |
+|---|---|
+| **Source** | Multiple sources (Web research) |
+| **URL** | [reddit.com/r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/) |
+| **Researched** | 2026-01-26 |
 
 ## Overview
 

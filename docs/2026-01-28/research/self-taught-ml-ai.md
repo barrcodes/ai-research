@@ -1,12 +1,10 @@
----
-title: Self-Taught Contributors in ML/AI - Pathways and Contributions
-source: r/MachineLearning
-url: https://old.reddit.com/r/MachineLearning/comments/1qp6s3c/d_examples_of_self_taught_people_who_made/
-researched_at: 2026-01-28T14:38:00Z
-fetch_method: concurrent-browser
----
-
 # Self-Taught Contributors in ML/AI - Pathways and Contributions
+
+| | |
+|---|---|
+| **Source** | r/MachineLearning |
+| **URL** | [old.reddit.com/r/MachineLearning/comments/1qp6s3c/d_examples_of_self_taught_people_who_made](https://old.reddit.com/r/MachineLearning/comments/1qp6s3c/d_examples_of_self_taught_people_who_made/) |
+| **Researched** | 2026-01-28 |
 
 ## Overview
 

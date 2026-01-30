@@ -1,12 +1,10 @@
----
-title: FASHN VTON v1.5 - Pixel-Space Virtual Try-On Model
-source: Reddit r/MachineLearning
-url: https://old.reddit.com/r/MachineLearning/comments/1qpc4ap/r_we_opensourced_fashn_vton_v15_a_pixelspace/
-researched_at: 2026-01-28T14:35:00Z
-fetch_method: concurrent-browser
----
-
 # FASHN VTON v1.5 - Pixel-Space Virtual Try-On Model
+
+| | |
+|---|---|
+| **Source** | Reddit r/MachineLearning |
+| **URL** | [old.reddit.com/r/MachineLearning/comments/1qpc4ap/r_we_opensourced_fashn_vton_v15_a_pixelspace](https://old.reddit.com/r/MachineLearning/comments/1qpc4ap/r_we_opensourced_fashn_vton_v15_a_pixelspace/) |
+| **Researched** | 2026-01-28 |
 
 ## Overview
 

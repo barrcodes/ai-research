@@ -1,11 +1,10 @@
----
-title: There is an AI code review bubble
-source: Greptile
-url: https://www.greptile.com/blog/ai-code-review-bubble
-researched_at: 2026-01-26T00:00:00Z
----
-
 # There is an AI code review bubble
+
+| | |
+|---|---|
+| **Source** | Greptile |
+| **URL** | [greptile.com/blog/ai-code-review-bubble](https://www.greptile.com/blog/ai-code-review-bubble) |
+| **Researched** | 2026-01-26 |
 
 ## Overview
 

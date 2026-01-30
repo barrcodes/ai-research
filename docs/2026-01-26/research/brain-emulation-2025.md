@@ -1,11 +1,10 @@
----
-title: State of Brain Emulation Report 2025
-source: arXiv
-url: https://arxiv.org/abs/2510.15745
-researched_at: 2026-01-26T00:00:00Z
----
-
 # State of Brain Emulation Report 2025
+
+| | |
+|---|---|
+| **Source** | arXiv |
+| **URL** | [arxiv.org/abs/2510.15745](https://arxiv.org/abs/2510.15745) |
+| **Researched** | 2026-01-26 |
 
 ## Overview
 

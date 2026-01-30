@@ -1,11 +1,10 @@
----
-title: Trinity Large - An Open 400B Sparse MoE Model
-source: Arcee AI
-url: https://www.arcee.ai/blog/trinity-large
-researched_at: 2026-01-29
----
-
 # Trinity Large: An Open 400B Sparse MoE Model
+
+| | |
+|---|---|
+| **Source** | Arcee AI |
+| **URL** | [arcee.ai/blog/trinity-large](https://www.arcee.ai/blog/trinity-large) |
+| **Researched** | 2026-01-29 |
 
 ## Overview
 

@@ -1,12 +1,10 @@
----
-title: It's time for an upgrade. Switch to Kilo, the most popular open source AI coding agent
-source: Reddit r/ClaudeAI
-url: https://www.reddit.com/r/ClaudeAI/
-researched_at: 2026-01-26T00:00:00Z
-fetch_method: web-search
----
-
 # Kilo: The Most Popular Open Source AI Coding Agent
+
+| | |
+|---|---|
+| **Source** | Reddit r/ClaudeAI |
+| **URL** | [reddit.com/r/ClaudeAI](https://www.reddit.com/r/ClaudeAI/) |
+| **Researched** | 2026-01-26 |
 
 ## Overview
 

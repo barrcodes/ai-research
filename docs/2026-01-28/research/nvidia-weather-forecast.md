@@ -1,11 +1,10 @@
----
-title: Nvidia Applies Transformers to Meteorology
-source: The New Stack / Nvidia Blog / Hugging Face Blog
-url: https://thenewstack.io/nvidia-makes-ai-weather-forecasting-more-accessible-no-supercomputer-needed/
-researched_at: 2026-01-28T00:00:00Z
----
-
 # Nvidia Applies Transformers to Meteorology
+
+| | |
+|---|---|
+| **Source** | The New Stack / Nvidia Blog / Hugging Face Blog |
+| **URL** | [thenewstack.io/nvidia-makes-ai-weather-forecasting-more-accessible-no-supercomputer-needed](https://thenewstack.io/nvidia-makes-ai-weather-forecasting-more-accessible-no-supercomputer-needed/) |
+| **Researched** | 2026-01-28 |
 
 ## Overview
 

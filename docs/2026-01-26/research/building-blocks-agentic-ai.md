@@ -1,11 +1,10 @@
----
-title: The Building Blocks of Agentic AI - From Kernels to Clusters
-source: Meta AI
-url: https://ai.meta.com/blog/introducing-pytorch-native-agentic-stack/
-researched_at: 2026-01-26T00:00:00Z
----
-
 # The Building Blocks of Agentic AI: From Kernels to Clusters
+
+| | |
+|---|---|
+| **Source** | Meta AI |
+| **URL** | [ai.meta.com/blog/introducing-pytorch-native-agentic-stack](https://ai.meta.com/blog/introducing-pytorch-native-agentic-stack/) |
+| **Researched** | 2026-01-26 |
 
 ## Overview
 

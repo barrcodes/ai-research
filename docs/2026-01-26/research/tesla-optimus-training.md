@@ -1,11 +1,10 @@
----
-title: Tesla plans to start training Optimus at its Austin factory
-source: Business Insider / Multiple Sources
-url: https://www.businessinsider.com/tesla-optimus-robot-new-training-austin-gigafactory-2026-1
-researched_at: 2026-01-26T00:00:00Z
----
-
 # Tesla plans to start training Optimus at its Austin factory
+
+| | |
+|---|---|
+| **Source** | Business Insider / Multiple Sources |
+| **URL** | [businessinsider.com/tesla-optimus-robot-new-training-austin-gigafactory-2026-1](https://www.businessinsider.com/tesla-optimus-robot-new-training-austin-gigafactory-2026-1) |
+| **Researched** | 2026-01-26 |
 
 ## Overview
 

@@ -1,11 +1,10 @@
----
-title: Introducing Google Antigravity
-source: Google Developers Blog
-url: https://developers.googleblog.com/build-with-google-antigravity-our-new-agentic-development-platform/
-researched_at: 2026-01-26T00:00:00Z
----
-
 # Introducing Google Antigravity
+
+| | |
+|---|---|
+| **Source** | Google Developers Blog |
+| **URL** | [developers.googleblog.com/build-with-google-antigravity-our-new-agentic-development-platform](https://developers.googleblog.com/build-with-google-antigravity-our-new-agentic-development-platform/) |
+| **Researched** | 2026-01-26 |
 
 ## Overview
 

@@ -1,11 +1,10 @@
----
-title: Architectural Choices in China's Open-Source AI Ecosystem
-source: Hugging Face Blog
-url: https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-2
-researched_at: 2026-01-28T00:00:00Z
----
-
 # Architectural Choices in China's Open-Source AI Ecosystem
+
+| | |
+|---|---|
+| **Source** | Hugging Face Blog |
+| **URL** | [huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-2](https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-2) |
+| **Researched** | 2026-01-28 |
 
 ## Overview
 

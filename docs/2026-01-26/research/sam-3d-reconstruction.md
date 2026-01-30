@@ -1,11 +1,10 @@
----
-title: Introducing SAM 3D - Powerful 3D Reconstruction for Physical World Images
-source: Meta AI Blog
-url: https://ai.meta.com/blog/sam-3d/
-researched_at: 2026-01-26T00:00:00Z
----
-
 # Introducing SAM 3D: Powerful 3D Reconstruction for Physical World Images
+
+| | |
+|---|---|
+| **Source** | Meta AI Blog |
+| **URL** | [ai.meta.com/blog/sam-3d](https://ai.meta.com/blog/sam-3d/) |
+| **Researched** | 2026-01-26 |
 
 ## Overview
 

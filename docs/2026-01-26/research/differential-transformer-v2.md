@@ -1,11 +1,10 @@
----
-title: Differential Transformer V2
-source: Hugging Face Blog - Microsoft
-url: https://huggingface.co/blog/microsoft/diff-attn-v2
-researched_at: 2026-01-26T00:00:00Z
----
-
 # Differential Transformer V2
+
+| | |
+|---|---|
+| **Source** | Hugging Face Blog - Microsoft |
+| **URL** | [huggingface.co/blog/microsoft/diff-attn-v2](https://huggingface.co/blog/microsoft/diff-attn-v2) |
+| **Researched** | 2026-01-26 |
 
 ## Overview
 

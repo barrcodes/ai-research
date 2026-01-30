@@ -1,11 +1,10 @@
----
-title: Pushing Qwen3-Max-Thinking Beyond its Limits
-source: Alibaba Qwen Team
-url: https://qwen.ai/blog?id=qwen3-max-thinking
-researched_at: 2026-01-26T00:00:00Z
----
-
 # Pushing Qwen3-Max-Thinking Beyond its Limits
+
+| | |
+|---|---|
+| **Source** | Alibaba Qwen Team |
+| **URL** | [qwen.ai/blog](https://qwen.ai/blog?id=qwen3-max-thinking) |
+| **Researched** | 2026-01-26 |
 
 ## Overview
 

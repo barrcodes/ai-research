@@ -1,12 +1,10 @@
----
-title: Jan v3 Instruct - 4B Coding Model Analysis
-source: janhq (Hugging Face, GitHub)
-url: https://huggingface.co/janhq/Jan-v3-4B-base-instruct
-researched_at: 2026-01-27T00:00:00Z
-fetch_method: web-search
----
+# Jan v3 Instruct - 4B Coding Model Analysis
 
-# Jan v3 Instruct: 4B Coding Model Analysis
+| | |
+|---|---|
+| **Source** | janhq (Hugging Face, GitHub) |
+| **URL** | [huggingface.co/janhq/Jan-v3-4B-base-instruct](https://huggingface.co/janhq/Jan-v3-4B-base-instruct) |
+| **Researched** | 2026-01-27 |
 
 ## Overview
 

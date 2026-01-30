@@ -1,12 +1,10 @@
----
-title: Claude Tasks Have Radically Increased My Efficiency
-source: Reddit - r/ClaudeAI
-url: https://old.reddit.com/r/ClaudeAI/hot/
-researched_at: 2026-01-27T00:00:00Z
-fetch_method: web-search
----
-
 # Claude Tasks Have Radically Increased My Efficiency
+
+| | |
+|---|---|
+| **Source** | Reddit - r/ClaudeAI |
+| **URL** | [old.reddit.com/r/ClaudeAI/hot](https://old.reddit.com/r/ClaudeAI/hot/) |
+| **Researched** | 2026-01-27 |
 
 ## Overview
 

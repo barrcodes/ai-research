@@ -1,12 +1,10 @@
----
-title: I gave Claude the one thing it was missing: memory that fades like ours does
-source: Reddit r/ClaudeAI
-url: https://www.reddit.com/r/ClaudeAI/
-researched_at: 2026-01-26T00:00:00Z
-fetch_method: web-search
----
-
 # I gave Claude the one thing it was missing: memory that fades like ours does
+
+| | |
+|---|---|
+| **Source** | Reddit r/ClaudeAI |
+| **URL** | [reddit.com/r/ClaudeAI](https://www.reddit.com/r/ClaudeAI/) |
+| **Researched** | 2026-01-26 |
 
 ## Overview
 

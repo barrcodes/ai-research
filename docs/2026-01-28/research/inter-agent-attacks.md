@@ -1,12 +1,10 @@
----
-title: Inter-Agent Attacks: 28,194 Weekly Incidents - A Threat Landscape Analysis
-source: RAXE AI Threat Intelligence Report
-url: https://raxe.ai/threat-intelligence
-researched_at: 2026-01-28T00:00:00Z
-fetch_method: concurrent-browser
----
+# Inter-Agent Attacks: 28,194 Weekly Incidents - A Threat Landscape Analysis
 
-# Inter-Agent Attacks: 28,194 Weekly Incidents
+| | |
+|---|---|
+| **Source** | RAXE AI Threat Intelligence Report |
+| **URL** | [raxe.ai/threat-intelligence](https://raxe.ai/threat-intelligence) |
+| **Researched** | 2026-01-28 |
 
 ## Overview
 

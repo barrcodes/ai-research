@@ -1,12 +1,10 @@
----
-title: Gemini "Math-Specialized version" proves a Novel Mathematical Theorem
-source: Reddit r/singularity / Google DeepMind
-url: https://arxiv.org/abs/2601.07222
-researched_at: 2026-01-26T00:00:00Z
-fetch_method: web-search
----
-
 # Gemini Proves Novel Theorem in Algebraic Geometry
+
+| | |
+|---|---|
+| **Source** | Reddit r/singularity / Google DeepMind |
+| **URL** | [arxiv.org/abs/2601.07222](https://arxiv.org/abs/2601.07222) |
+| **Researched** | 2026-01-26 |
 
 ## Overview
 

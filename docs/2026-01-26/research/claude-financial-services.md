@@ -1,11 +1,10 @@
----
-title: Advancing Claude for Financial Services
-source: Anthropic
-url: https://www.anthropic.com/news/advancing-claude-for-financial-services
-researched_at: 2026-01-26T00:00:00Z
----
-
 # Advancing Claude for Financial Services
+
+| | |
+|---|---|
+| **Source** | Anthropic |
+| **URL** | [anthropic.com/news/advancing-claude-for-financial-services](https://www.anthropic.com/news/advancing-claude-for-financial-services) |
+| **Researched** | 2026-01-26 |
 
 ## Overview
 

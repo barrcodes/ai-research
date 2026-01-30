@@ -1,11 +1,10 @@
----
-title: Awesome-moltbot-skills – Categorized 680 Moltbot Skills
-source: GitHub (VoltAgent/awesome-moltbot-skills)
-url: https://github.com/VoltAgent/awesome-moltbot-skills
-researched_at: 2026-01-29T00:00:00Z
----
-
 # Awesome-moltbot-skills – Categorized 680 Moltbot Skills
+
+| | |
+|---|---|
+| **Source** | GitHub (VoltAgent/awesome-moltbot-skills) |
+| **URL** | [github.com/VoltAgent/awesome-moltbot-skills](https://github.com/VoltAgent/awesome-moltbot-skills) |
+| **Researched** | 2026-01-29 |
 
 ## Overview
 

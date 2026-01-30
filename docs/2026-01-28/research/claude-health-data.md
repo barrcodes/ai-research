@@ -1,12 +1,10 @@
----
-title: Claude Health Data Integration
-source: r/ClaudeAI
-url: https://www.reddit.com/r/ClaudeAI/comments/1qihg5x/claude_can_now_securely_connect_to_your_health/
-researched_at: 2026-01-28T00:00:00Z
-fetch_method: concurrent-browser
----
-
 # Claude Health Data Integration
+
+| | |
+|---|---|
+| **Source** | r/ClaudeAI |
+| **URL** | [reddit.com/r/ClaudeAI/comments/1qihg5x/claude_can_now_securely_connect_to_your_health/](https://www.reddit.com/r/ClaudeAI/comments/1qihg5x/claude_can_now_securely_connect_to_your_health/) |
+| **Researched** | 2026-01-28 |
 
 ## Overview
 

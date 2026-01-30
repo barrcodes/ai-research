@@ -1,11 +1,10 @@
----
-title: NVIDIA Earth-2 Open Models Span the Whole Weather Stack
-source: Hugging Face Blog
-url: https://huggingface.co/blog/nvidia/earth-2-open-models
-researched_at: 2026-01-27T00:00:00Z
----
-
 # NVIDIA Earth-2 Open Models Span the Whole Weather Stack
+
+| | |
+|---|---|
+| **Source** | Hugging Face Blog |
+| **URL** | [huggingface.co/blog/nvidia/earth-2-open-models](https://huggingface.co/blog/nvidia/earth-2-open-models) |
+| **Researched** | 2026-01-27 |
 
 ## Overview
 

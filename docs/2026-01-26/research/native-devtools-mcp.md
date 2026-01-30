@@ -1,11 +1,10 @@
----
-title: native-devtools-mcp - An MCP server for testing native desktop applications
-source: GitHub Repository
-url: https://github.com/sh3ll3x3c/native-devtools-mcp
-researched_at: 2026-01-26T00:00:00Z
----
-
 # native-devtools-mcp: MCP Server for Desktop Application Testing
+
+| | |
+|---|---|
+| **Source** | GitHub Repository |
+| **URL** | [github.com/sh3ll3x3c/native-devtools-mcp](https://github.com/sh3ll3x3c/native-devtools-mcp) |
+| **Researched** | 2026-01-26 |
 
 ## Overview
 

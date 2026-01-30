@@ -1,11 +1,10 @@
----
-title: Open-sourcing new AI tools for adaptive experimentation
-source: Meta AI Blog
-url: https://ai.meta.com/blog/open-sourcing-ax-and-botorch-new-ai-tools-for-adaptive-experimentation/
-researched_at: 2026-01-26T00:00:00Z
----
-
 # Open-sourcing new AI tools for adaptive experimentation
+
+| | |
+|---|---|
+| **Source** | Meta AI Blog |
+| **URL** | [ai.meta.com/blog/open-sourcing-ax-and-botorch-new-ai-tools-for-adaptive-experimentation](https://ai.meta.com/blog/open-sourcing-ax-and-botorch-new-ai-tools-for-adaptive-experimentation/) |
+| **Researched** | 2026-01-26 |
 
 ## Overview
 

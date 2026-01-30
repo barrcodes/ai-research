@@ -1,12 +1,10 @@
----
-title: One-Minute Daily AI News - Week of January 19-26, 2026
-source: Last Week in AI (Medium)
-url: https://medium.com/last-week-in-ai/last-week-in-ai-january-19-26-2026-9853b9adb132
-researched_at: 2026-01-27T00:00:00Z
-fetch_method: web-search
----
-
 # One-Minute Daily AI News - Week of January 19-26, 2026
+
+| | |
+|---|---|
+| **Source** | Last Week in AI (Medium) |
+| **URL** | [medium.com/last-week-in-ai/last-week-in-ai-january-19-26-2026-9853b9adb132](https://medium.com/last-week-in-ai/last-week-in-ai-january-19-26-2026-9853b9adb132) |
+| **Researched** | 2026-01-27 |
 
 ## Overview
 
