@@ -2,6 +2,10 @@
 
 ## Current Week
 
+### [2026-02-04](./2026-02-04/index.md)
+
+Qwen3-Coder-Next 80B MoE with 3B active parameters achieves SWE-Bench parity via agentic RL on 800K GitHub PRs. Mixture-of-models routing outperforms single LLMs by exploiting task specialization—leaderboard rankings obscure systematic strengths. Context rot cliff at 60-70% utilization requires memory externalization and hierarchical sub-agents. OpenClaw UI automation gains 145K stars as API-agnostic alternative. PromptForest ensemble achieves better calibration at 237M parameters than 600M monoliths. Poetiq achieves 54% ARC-AGI SOTA with 60% cost reduction via learned test-time reasoning. Jim Fan proposes vision-first world models as second pretraining paradigm for robotics. 11 sources, 16 articles researched.
+
 ### [2026-02-03](./2026-02-03/index.md)
 
 OpenAI Codex App introduces multi-agent desktop orchestration with parallel agent execution and composable skills. Qwen3-Coder-Next deploys 80B MoE with 3B active parameters for local agentic coding. Claude Image beta hints suggest Anthropic entering multimodal generation. Moltbook suffers dual security crises: prompt-injection wallet drains and infrastructure breach exposing 1.5M tokens. KORA benchmark reveals 2.6x child safety gap between Claude (76%) and Grok (29%). GLM-OCR achieves SOTA with 0.9B parameters. OpenAI exploring SRAM alternatives to Nvidia for inference workloads. 11 sources, 20 articles researched.
