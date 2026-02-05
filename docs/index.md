@@ -2,6 +2,10 @@
 
 ## Current Week
 
+### [2026-02-05](./2026-02-05/index.md)
+
+OpenAI Codex App Server architecture uses stateful JSON-RPC processes with persistent threads for agentic coding across surfaces. Karpathy proposes "Agentic Engineering" as rigorous discipline succeeding vibecoding. Claude Sonnet 5 leak reveals 82.1% SWE-Bench at 50% Opus cost with 1M context. vLLM-Omni achieves 91.4% JCT reduction via disaggregated multimodal serving. CRAFT demonstrates zero-retraining agentic loops for text-to-image. GPT-5.2 hits 6.6 hours on METR autonomy benchmark. OpenClaw malware in ClawHub skills exposes agent ecosystem security gaps. Frontier-open source gap shrinks to 6 months with 86% cost savings. 11 sources, 30 articles researched.
+
 ### [2026-02-04](./2026-02-04/index.md)
 
 Qwen3-Coder-Next 80B MoE with 3B active parameters achieves SWE-Bench parity via agentic RL on 800K GitHub PRs. Mixture-of-models routing outperforms single LLMs by exploiting task specialization—leaderboard rankings obscure systematic strengths. Context rot cliff at 60-70% utilization requires memory externalization and hierarchical sub-agents. OpenClaw UI automation gains 145K stars as API-agnostic alternative. PromptForest ensemble achieves better calibration at 237M parameters than 600M monoliths. Poetiq achieves 54% ARC-AGI SOTA with 60% cost reduction via learned test-time reasoning. Jim Fan proposes vision-first world models as second pretraining paradigm for robotics. 11 sources, 16 articles researched.
