@@ -2,6 +2,10 @@
 
 ## Current Week
 
+### [2026-02-06](./2026-02-06/index.md)
+
+Claude Opus 4.6 and GPT-5.3-Codex launch 27 minutes apart, marking competition shift to autonomous agentic execution. Opus achieves 1M token context with 76% needle retrieval; GPT-5.3-Codex self-improved its own training, reaching 77.3% Terminal-Bench 2.0. Agentic architecture emerges as first-class concern (SROS planes model separates orchestration from governance). Production readiness gap remains: AssetOpsBench shows no model exceeds 85-point deployment threshold. Verification infrastructure, skill transfer, and organizational culture become architectural leverage. 11 sources, 27 articles researched.
+
 ### [2026-02-05](./2026-02-05/index.md)
 
 OpenAI Codex App Server architecture uses stateful JSON-RPC processes with persistent threads for agentic coding across surfaces. Karpathy proposes "Agentic Engineering" as rigorous discipline succeeding vibecoding. Claude Sonnet 5 leak reveals 82.1% SWE-Bench at 50% Opus cost with 1M context. vLLM-Omni achieves 91.4% JCT reduction via disaggregated multimodal serving. CRAFT demonstrates zero-retraining agentic loops for text-to-image. GPT-5.2 hits 6.6 hours on METR autonomy benchmark. OpenClaw malware in ClawHub skills exposes agent ecosystem security gaps. Frontier-open source gap shrinks to 6 months with 86% cost savings. 11 sources, 30 articles researched.
