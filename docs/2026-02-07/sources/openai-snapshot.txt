@@ -1,0 +1,474 @@
+- generic [active] [ref=e1]:
+  - banner:
+    - generic [ref=e2]:
+      - link "Skip to main content":
+        - /url: "#main"
+      - generic [ref=e4]:
+        - generic [ref=e5]:
+          - button "Open Search" [ref=e304] [cursor=pointer]:
+            - img [ref=e305]
+          - button "Close Search" [ref=e307] [cursor=pointer]:
+            - img [ref=e308]
+        - button "Log in" [ref=e14] [cursor=pointer]
+    - generic [ref=e16]:
+      - link "OpenAI Home" [ref=e18] [cursor=pointer]:
+        - /url: /
+        - img [ref=e19]
+        - img [ref=e22]
+      - button "Toggle navigation sidebar" [expanded] [ref=e29] [cursor=pointer]:
+        - img [ref=e310]
+  - generic [ref=e32]:
+    - generic [ref=e33]:
+      - generic [ref=e34]: Switch to
+      - list [ref=e35]:
+        - listitem [ref=e36]:
+          - link [ref=e37] [cursor=pointer]:
+            - /url: https://chatgpt.com/?openaicom-did=23ebf505-44fc-44b0-8aa9-d3e21f07d90e&openaicom_referred=true
+            - text: ChatGPT
+            - generic [ref=e38]: (opens in a new window)
+        - listitem [ref=e39]:
+          - link [ref=e40] [cursor=pointer]:
+            - /url: https://sora.com/
+            - text: Sora
+            - generic [ref=e41]: (opens in a new window)
+        - listitem [ref=e42]:
+          - link [ref=e43] [cursor=pointer]:
+            - /url: https://platform.openai.com/
+            - text: API Platform
+            - generic [ref=e44]: (opens in a new window)
+    - generic [ref=e45]:
+      - navigation:
+        - list [ref=e48]:
+          - listitem [ref=e49]:
+            - generic [ref=e50]:
+              - link "Research" [ref=e51] [cursor=pointer]:
+                - /url: /research/index/
+              - generic:
+                - img
+          - listitem [ref=e52]:
+            - generic [ref=e53]:
+              - link "Safety" [ref=e54] [cursor=pointer]:
+                - /url: /safety/
+              - generic:
+                - img
+          - listitem [ref=e55]:
+            - generic [ref=e56]:
+              - link "For Business" [ref=e57] [cursor=pointer]:
+                - /url: /business/
+              - generic:
+                - img
+          - listitem [ref=e58]:
+            - generic [ref=e59]:
+              - link "For Developers" [ref=e60] [cursor=pointer]:
+                - /url: /api/
+              - generic:
+                - img
+          - listitem [ref=e61]:
+            - generic [ref=e62]:
+              - link "ChatGPT" [ref=e63] [cursor=pointer]:
+                - /url: https://chatgpt.com/overview?openaicom-did=23ebf505-44fc-44b0-8aa9-d3e21f07d90e&openaicom_referred=true
+              - generic:
+                - img
+          - listitem [ref=e64]:
+            - link "Sora" [ref=e66] [cursor=pointer]:
+              - /url: /sora/
+          - listitem [ref=e67]:
+            - link "Codex" [ref=e69] [cursor=pointer]:
+              - /url: /codex/
+          - listitem [ref=e70]:
+            - link "Stories" [ref=e72] [cursor=pointer]:
+              - /url: /stories/
+          - listitem [ref=e73]:
+            - generic [ref=e74]:
+              - link "Company" [ref=e75] [cursor=pointer]:
+                - /url: /about/
+              - generic:
+                - img
+          - listitem [ref=e76]:
+            - link "News" [ref=e78] [cursor=pointer]:
+              - /url: /news/company-announcements/
+        - button "Navigate to another product." [ref=e80] [cursor=pointer]:
+          - img [ref=e81]
+    - generic [ref=e84]:
+      - main [ref=e85]:
+        - generic [ref=e86]: OpenAI News | OpenAI
+        - generic [ref=e87]:
+          - heading "All" [level=2] [ref=e89]
+          - navigation [ref=e90]:
+            - list [ref=e92]:
+              - listitem [ref=e93]:
+                - link "Company" [ref=e94] [cursor=pointer]:
+                  - /url: /news/company-announcements/
+              - listitem [ref=e95]:
+                - link "Research" [ref=e96] [cursor=pointer]:
+                  - /url: /news/research/
+              - listitem [ref=e97]:
+                - link "Product" [ref=e98] [cursor=pointer]:
+                  - /url: /news/product-releases/
+              - listitem [ref=e99]:
+                - link "Safety" [ref=e100] [cursor=pointer]:
+                  - /url: /news/safety-alignment/
+              - listitem [ref=e101]:
+                - link "Engineering" [ref=e102] [cursor=pointer]:
+                  - /url: /news/engineering/
+              - listitem [ref=e103]:
+                - link "Security" [ref=e104] [cursor=pointer]:
+                  - /url: /news/security/
+              - listitem [ref=e105]:
+                - link "Global Affairs" [ref=e106] [cursor=pointer]:
+                  - /url: /news/global-affairs/
+              - listitem [ref=e107]:
+                - link "All" [ref=e108] [cursor=pointer]:
+                  - /url: /news/
+        - generic [ref=e314]:
+          - generic [ref=e316]:
+            - heading [level=4]
+            - generic [ref=e317]:
+              - separator [ref=e318]
+              - generic [ref=e319]:
+                - generic [ref=e320]:
+                  - button "Filter" [ref=e321] [cursor=pointer]:
+                    - img [ref=e322]
+                    - text: Filter
+                  - button "Sort" [ref=e324] [cursor=pointer]:
+                    - img [ref=e325]
+                    - text: Sort
+                - generic [ref=e327]:
+                  - generic [ref=e328] [cursor=pointer]:
+                    - radio "Switch cards to show Media" [checked]
+                    - img [ref=e330]
+                    - generic: Switch cards to show Media
+                  - generic [ref=e335] [cursor=pointer]:
+                    - radio "Switch cards to hide Media"
+                    - img [ref=e337]
+                    - generic: Switch cards to hide Media
+          - generic [ref=e339]:
+            - generic [ref=e341]:
+              - generic [ref=e342]:
+                - img "ginkgo > card image" [ref=e348]
+                - link "GPT-5 lowers the cost of cell-free protein synthesis - Research - Feb 5, 2026" [ref=e349] [cursor=pointer]:
+                  - /url: /index/gpt-5-lowers-protein-synthesis-cost/
+                  - generic [ref=e350]:
+                    - generic [ref=e351]: GPT-5 lowers the cost of cell-free protein synthesis
+                    - paragraph [ref=e352]:
+                      - generic [ref=e353]: Research
+                      - time [ref=e355]: Feb 5, 2026
+              - generic [ref=e356]:
+                - img "Trusted access for cyber > Cover Image" [ref=e362]
+                - link "Introducing Trusted Access for Cyber - Security - Feb 5, 2026" [ref=e363] [cursor=pointer]:
+                  - /url: /index/trusted-access-for-cyber/
+                  - generic [ref=e364]:
+                    - generic [ref=e365]: Introducing Trusted Access for Cyber
+                    - paragraph [ref=e366]:
+                      - generic [ref=e367]: Security
+                      - time [ref=e369]: Feb 5, 2026
+              - generic [ref=e370]:
+                - img "OpenAI Frontier 1x1" [ref=e376]
+                - link "Introducing OpenAI Frontier - Product - Feb 5, 2026" [ref=e377] [cursor=pointer]:
+                  - /url: /index/introducing-openai-frontier/
+                  - generic [ref=e378]:
+                    - generic [ref=e379]: Introducing OpenAI Frontier
+                    - paragraph [ref=e380]:
+                      - generic [ref=e381]: Product
+                      - time [ref=e383]: Feb 5, 2026
+              - generic [ref=e384]:
+                - img "GPT-5.3-Codex Artcard 1x1" [ref=e390]
+                - link "Introducing GPT-5.3-Codex - Product - Feb 5, 2026" [ref=e391] [cursor=pointer]:
+                  - /url: /index/introducing-gpt-5-3-codex/
+                  - generic [ref=e392]:
+                    - generic [ref=e393]: Introducing GPT-5.3-Codex
+                    - paragraph [ref=e394]:
+                      - generic [ref=e395]: Product
+                      - time [ref=e397]: Feb 5, 2026
+              - generic [ref=e398]:
+                - img "System Card Art" [ref=e404]
+                - link "GPT-5.3-Codex System Card - Publication - Feb 5, 2026" [ref=e405] [cursor=pointer]:
+                  - /url: /index/gpt-5-3-codex-system-card/
+                  - generic [ref=e406]:
+                    - generic [ref=e407]: GPT-5.3-Codex System Card
+                    - paragraph [ref=e408]:
+                      - generic [ref=e409]: Publication
+                      - time [ref=e411]: Feb 5, 2026
+              - generic [ref=e412]:
+                - img "Codex harness > card image" [ref=e418]
+                - 'link "Unlocking the Codex harness: how we built the App Server - Engineering - Feb 4, 2026" [ref=e419] [cursor=pointer]':
+                  - /url: /index/unlocking-the-codex-harness/
+                  - generic [ref=e420]:
+                    - generic [ref=e421]: "Unlocking the Codex harness: how we built the App Server"
+                    - paragraph [ref=e422]:
+                      - generic [ref=e423]: Engineering
+                      - time [ref=e425]: Feb 4, 2026
+              - generic [ref=e426]:
+                - img "Sora feed philosophy art card 1 x 1" [ref=e432]
+                - link "The Sora feed philosophy - Product - Feb 3, 2026" [ref=e433] [cursor=pointer]:
+                  - /url: /index/sora-feed-philosophy/
+                  - generic [ref=e434]:
+                    - generic [ref=e435]: The Sora feed philosophy
+                    - paragraph [ref=e436]:
+                      - generic [ref=e437]: Product
+                      - time [ref=e439]: Feb 3, 2026
+              - generic [ref=e440]:
+                - img "Codex Landing Page SEO" [ref=e446]
+                - link "Introducing the Codex app - Product - Feb 2, 2026" [ref=e447] [cursor=pointer]:
+                  - /url: /index/introducing-the-codex-app/
+                  - generic [ref=e448]:
+                    - generic [ref=e449]: Introducing the Codex app
+                    - paragraph [ref=e450]:
+                      - generic [ref=e451]: Product
+                      - time [ref=e453]: Feb 2, 2026
+              - generic [ref=e454]:
+                - img "kepler > card image" [ref=e460]
+                - link "Inside OpenAI’s in-house data agent - Engineering - Jan 29, 2026" [ref=e461] [cursor=pointer]:
+                  - /url: /index/inside-our-in-house-data-agent/
+                  - generic [ref=e462]:
+                    - generic [ref=e463]: Inside OpenAI’s in-house data agent
+                    - paragraph [ref=e464]:
+                      - generic [ref=e465]: Engineering
+                      - time [ref=e467]: Jan 29, 2026
+            - button "Load more" [ref=e469] [cursor=pointer]
+      - contentinfo [ref=e109]:
+        - generic [ref=e111]:
+          - generic [ref=e112]:
+            - generic [ref=e113]:
+              - heading "Our Research" [level=2] [ref=e114]
+              - list [ref=e115]:
+                - listitem [ref=e116]:
+                  - link "Research Index" [ref=e117] [cursor=pointer]:
+                    - /url: /research/index/
+                - listitem [ref=e118]:
+                  - link "Research Overview" [ref=e119] [cursor=pointer]:
+                    - /url: /research/
+                - listitem [ref=e120]:
+                  - link "Research Residency" [ref=e121] [cursor=pointer]:
+                    - /url: /residency/
+                - listitem [ref=e122]:
+                  - link "OpenAI for Science" [ref=e123] [cursor=pointer]:
+                    - /url: /science/
+            - generic [ref=e124]:
+              - heading "Latest Advancements" [level=2] [ref=e125]
+              - list [ref=e126]:
+                - listitem [ref=e127]:
+                  - link "GPT-5" [ref=e128] [cursor=pointer]:
+                    - /url: /gpt-5/
+                - listitem [ref=e129]:
+                  - link "OpenAI o3" [ref=e130] [cursor=pointer]:
+                    - /url: /index/introducing-o3-and-o4-mini/
+                - listitem [ref=e131]:
+                  - link "OpenAI o4-mini" [ref=e132] [cursor=pointer]:
+                    - /url: /index/introducing-o3-and-o4-mini/
+                - listitem [ref=e133]:
+                  - link "GPT-4o" [ref=e134] [cursor=pointer]:
+                    - /url: /index/gpt-4o-system-card/
+                - listitem [ref=e135]:
+                  - link "GPT-4o mini" [ref=e136] [cursor=pointer]:
+                    - /url: /index/gpt-4o-mini-advancing-cost-efficient-intelligence/
+                - listitem [ref=e137]:
+                  - link "Sora" [ref=e138] [cursor=pointer]:
+                    - /url: /index/sora-system-card/
+            - generic [ref=e139]:
+              - heading "Safety" [level=2] [ref=e140]
+              - list [ref=e141]:
+                - listitem [ref=e142]:
+                  - link "Safety Approach" [ref=e143] [cursor=pointer]:
+                    - /url: /safety/
+                - listitem [ref=e144]:
+                  - link "Security & Privacy" [ref=e145] [cursor=pointer]:
+                    - /url: /security-and-privacy/
+                - listitem [ref=e146]:
+                  - link "Trust & Transparency" [ref=e147] [cursor=pointer]:
+                    - /url: /trust-and-transparency/
+          - generic [ref=e148]:
+            - generic [ref=e149]:
+              - heading "ChatGPT" [level=2] [ref=e150]
+              - list [ref=e151]:
+                - listitem [ref=e152]:
+                  - link "Explore ChatGPT (opens in a new window)" [ref=e153] [cursor=pointer]:
+                    - /url: https://chatgpt.com/overview?openaicom-did=23ebf505-44fc-44b0-8aa9-d3e21f07d90e&openaicom_referred=true
+                    - text: Explore ChatGPT
+                    - img [ref=e154]
+                    - generic [ref=e156]: (opens in a new window)
+                - listitem [ref=e157]:
+                  - link "Business" [ref=e158] [cursor=pointer]:
+                    - /url: https://chatgpt.com/business/business-plan?openaicom-did=23ebf505-44fc-44b0-8aa9-d3e21f07d90e&openaicom_referred=true
+                - listitem [ref=e159]:
+                  - link "Enterprise" [ref=e160] [cursor=pointer]:
+                    - /url: https://chatgpt.com/business/enterprise?openaicom-did=23ebf505-44fc-44b0-8aa9-d3e21f07d90e&openaicom_referred=true
+                - listitem [ref=e161]:
+                  - link "Education" [ref=e162] [cursor=pointer]:
+                    - /url: https://chatgpt.com/business/education?openaicom-did=23ebf505-44fc-44b0-8aa9-d3e21f07d90e&openaicom_referred=true
+                - listitem [ref=e163]:
+                  - link "Pricing (opens in a new window)" [ref=e164] [cursor=pointer]:
+                    - /url: https://chatgpt.com/pricing?openaicom-did=23ebf505-44fc-44b0-8aa9-d3e21f07d90e&openaicom_referred=true
+                    - text: Pricing
+                    - img [ref=e165]
+                    - generic [ref=e167]: (opens in a new window)
+                - listitem [ref=e168]:
+                  - link "Download (opens in a new window)" [ref=e169] [cursor=pointer]:
+                    - /url: https://chatgpt.com/download?openaicom-did=23ebf505-44fc-44b0-8aa9-d3e21f07d90e&openaicom_referred=true
+                    - text: Download
+                    - img [ref=e170]
+                    - generic [ref=e172]: (opens in a new window)
+            - generic [ref=e173]:
+              - heading "Sora" [level=2] [ref=e174]
+              - list [ref=e175]:
+                - listitem [ref=e176]:
+                  - link "Sora Overview" [ref=e177] [cursor=pointer]:
+                    - /url: /sora/
+                - listitem [ref=e178]:
+                  - link "Features" [ref=e179] [cursor=pointer]:
+                    - /url: /sora/#features
+                - listitem [ref=e180]:
+                  - link "Pricing" [ref=e181] [cursor=pointer]:
+                    - /url: /sora/#pricing
+                - listitem [ref=e182]:
+                  - link "Sora log in (opens in a new window)" [ref=e183] [cursor=pointer]:
+                    - /url: https://sora.com/
+                    - text: Sora log in
+                    - img [ref=e184]
+                    - generic [ref=e186]: (opens in a new window)
+            - generic [ref=e187]:
+              - heading "API Platform" [level=2] [ref=e188]
+              - list [ref=e189]:
+                - listitem [ref=e190]:
+                  - link "Platform Overview" [ref=e191] [cursor=pointer]:
+                    - /url: /api/
+                - listitem [ref=e192]:
+                  - link "Pricing" [ref=e193] [cursor=pointer]:
+                    - /url: /api/pricing/
+                - listitem [ref=e194]:
+                  - link "API log in (opens in a new window)" [ref=e195] [cursor=pointer]:
+                    - /url: https://platform.openai.com/login
+                    - text: API log in
+                    - img [ref=e196]
+                    - generic [ref=e198]: (opens in a new window)
+                - listitem [ref=e199]:
+                  - link "Documentation (opens in a new window)" [ref=e200] [cursor=pointer]:
+                    - /url: https://platform.openai.com/docs/overview
+                    - text: Documentation
+                    - img [ref=e201]
+                    - generic [ref=e203]: (opens in a new window)
+                - listitem [ref=e204]:
+                  - link "Developer Forum (opens in a new window)" [ref=e205] [cursor=pointer]:
+                    - /url: https://community.openai.com/
+                    - text: Developer Forum
+                    - img [ref=e206]
+                    - generic [ref=e208]: (opens in a new window)
+          - generic [ref=e209]:
+            - generic [ref=e210]:
+              - heading "For Business" [level=2] [ref=e211]
+              - list [ref=e212]:
+                - listitem [ref=e213]:
+                  - link "Business Overview" [ref=e214] [cursor=pointer]:
+                    - /url: /business/
+                - listitem [ref=e215]:
+                  - link "Solutions" [ref=e216] [cursor=pointer]:
+                    - /url: /solutions/
+                - listitem [ref=e217]:
+                  - link "Contact Sales" [ref=e218] [cursor=pointer]:
+                    - /url: /contact-sales/
+            - generic [ref=e219]:
+              - heading "Company" [level=2] [ref=e220]
+              - list [ref=e221]:
+                - listitem [ref=e222]:
+                  - link "About Us" [ref=e223] [cursor=pointer]:
+                    - /url: /about/
+                - listitem [ref=e224]:
+                  - link "Our Charter" [ref=e225] [cursor=pointer]:
+                    - /url: /charter/
+                - listitem [ref=e226]:
+                  - link "Foundation" [ref=e227] [cursor=pointer]:
+                    - /url: /foundation/
+                - listitem [ref=e228]:
+                  - link "Careers" [ref=e229] [cursor=pointer]:
+                    - /url: /careers/
+                - listitem [ref=e230]:
+                  - link "Brand" [ref=e231] [cursor=pointer]:
+                    - /url: /brand/
+            - generic [ref=e232]:
+              - heading "Support" [level=2] [ref=e233]
+              - list [ref=e234]:
+                - listitem [ref=e235]:
+                  - link "Help Center (opens in a new window)" [ref=e236] [cursor=pointer]:
+                    - /url: https://help.openai.com/
+                    - text: Help Center
+                    - img [ref=e237]
+                    - generic [ref=e239]: (opens in a new window)
+            - generic [ref=e240]:
+              - heading "More" [level=2] [ref=e241]
+              - list [ref=e242]:
+                - listitem [ref=e243]:
+                  - link "News" [ref=e244] [cursor=pointer]:
+                    - /url: /news/
+                - listitem [ref=e245]:
+                  - link "Stories" [ref=e246] [cursor=pointer]:
+                    - /url: /stories/
+                - listitem [ref=e247]:
+                  - link "Livestreams" [ref=e248] [cursor=pointer]:
+                    - /url: /live/
+                - listitem [ref=e249]:
+                  - link "Podcast" [ref=e250] [cursor=pointer]:
+                    - /url: /podcast/
+                - listitem [ref=e251]:
+                  - link "RSS" [ref=e252] [cursor=pointer]:
+                    - /url: /news/rss.xml
+          - generic [ref=e254]:
+            - heading "Terms & Policies" [level=2] [ref=e255]
+            - list [ref=e256]:
+              - listitem [ref=e257]:
+                - link "Terms of Use" [ref=e258] [cursor=pointer]:
+                  - /url: /policies/terms-of-use/
+              - listitem [ref=e259]:
+                - link "Privacy Policy" [ref=e260] [cursor=pointer]:
+                  - /url: /policies/privacy-policy/
+              - listitem [ref=e261]:
+                - link "Other Policies" [ref=e262] [cursor=pointer]:
+                  - /url: /policies/
+        - generic [ref=e263]:
+          - generic [ref=e264]:
+            - link "X" [ref=e265] [cursor=pointer]:
+              - /url: https://x.com/OpenAI
+              - img [ref=e266]
+              - generic [ref=e268]: (opens in a new window)
+            - link "YouTube" [ref=e269] [cursor=pointer]:
+              - /url: https://www.youtube.com/OpenAI
+              - img [ref=e270]
+              - generic [ref=e272]: (opens in a new window)
+            - link "LinkedIn" [ref=e273] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/openai
+              - img [ref=e274]
+              - generic [ref=e276]: (opens in a new window)
+            - link "GitHub" [ref=e277] [cursor=pointer]:
+              - /url: https://github.com/openai
+              - img [ref=e278]
+              - generic [ref=e280]: (opens in a new window)
+            - link "Instagram" [ref=e281] [cursor=pointer]:
+              - /url: https://www.instagram.com/openai/
+              - img [ref=e282]
+              - generic [ref=e284]: (opens in a new window)
+            - link "TikTok" [ref=e285] [cursor=pointer]:
+              - /url: https://www.tiktok.com/@openai
+              - img [ref=e286]
+              - generic [ref=e288]: (opens in a new window)
+            - link "Discord" [ref=e289] [cursor=pointer]:
+              - /url: https://discord.gg/openai
+              - img [ref=e290]
+              - generic [ref=e292]: (opens in a new window)
+          - generic [ref=e293]:
+            - generic [ref=e294]: OpenAI © 2015–2026
+            - button "Manage Cookies" [ref=e295] [cursor=pointer]
+          - generic [ref=e296]:
+            - button "Change language" [ref=e297] [cursor=pointer]:
+              - generic [ref=e298]:
+                - img [ref=e299]
+                - generic [ref=e302]:
+                  - text: English
+                  - generic [ref=e303]: United States
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img
+                      - textbox "Search locales by name or region":
+                        - /placeholder: Search
+  - alert [ref=e470]
