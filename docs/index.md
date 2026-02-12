@@ -2,6 +2,10 @@
 
 ## Current Week
 
+### [2026-02-12](./2026-02-12/index.md)
+
+Frontier models drive agentic architecture: Gemini Deep Think solves research problems through structured verification loops; GLM-5 (744B, 40B active) achieves open-weight parity with frontier models. Agent engineering flips the constraint: repository design and harness architecture matter more than model capability—the hashline format improves weak models 10x without retraining. Optimization breakthroughs show parallel decoding (DTS) beats longer-chain-of-thought assumptions, while sparse attention (HySparse) achieves 10x KV cache reduction via oracle guidance. Infrastructure becomes competitive moat: power grid constraints outpace semiconductor growth; Anthropic absorbs grid externalities while most competitors face cost passthrough. 11 sources, 20 articles researched.
+
 ### [2026-02-11](./2026-02-11/index.md)
 
 Agentic middleware consolidates: Entire ($60M seed) and OpenAI Frontier both address agent fleet management rather than point solutions, while Apple Xcode integrates Claude Agent SDK natively via MCP. GPT-5.3-Codex and Claude Opus 4.6 lead frontier coding benchmarks with distinct architectures—Codex emphasizes interactive steering during execution while Opus offers graduated adaptive reasoning. GLM-5 (745B MoE on Huawei Ascend) and MiniMax M2.1 ($19/month Agent Desktop) demonstrate cost/sovereignty alternatives. Security incidents dominate: OpenClaw's 42K exposed instances with 341 malicious skills prompted AgentVault emergency response; prompt injection enables API key theft via attacker-supplied credentials. MCP token optimization patterns mature—dynamic tool discovery achieves 75-95% reduction from static initialization. Evaluation rigor challenged: agentic eval variance of 2.2-6.0 percentage points invalidates most claimed 2-3 point improvements. SAE steering fails catastrophically for structured output (86.8% → 24.4% valid JSON), validating constrained decoding for syntax control. 11 sources, 32 articles researched.
