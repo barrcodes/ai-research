@@ -2,6 +2,10 @@
 
 ## Current Week
 
+### [2026-02-13](./2026-02-13/index.md)
+
+Frontier model economics shift from capability races to latency optimization: Anthropic's $30B Series G valuation ($2.5B Claude Code revenue, 4% GitHub commits) and OpenAI's Cerebras partnership both signal custom silicon and inference efficiency now compete with raw parameter scaling. Agent reliability proves infrastructure-bound: OpenEnv reveals 90% accuracy drops to 40% under ambiguity, with 50%+ of failures occurring post-tool-selection from argument malformation—not model limitations. Inference-time compute scaling (Gemini 3 Deep Think: 90% IMO accuracy) potentially outperforms pre-training efficiency. Production agents operate at 2004 security maturity with 73%+ exposed to prompt injection; defense-in-depth now mandatory. Custom kernel generation viable for narrow domains (1.88x speedups) but end-to-end impact modest (1.06x). Governance patterns stabilizing: multi-agent Review-and-Critique becomes standard for high-stakes content. 6 sources, 11 articles researched.
+
 ### [2026-02-12](./2026-02-12/index.md)
 
 Frontier models drive agentic architecture: Gemini Deep Think solves research problems through structured verification loops; GLM-5 (744B, 40B active) achieves open-weight parity with frontier models. Agent engineering flips the constraint: repository design and harness architecture matter more than model capability—the hashline format improves weak models 10x without retraining. Optimization breakthroughs show parallel decoding (DTS) beats longer-chain-of-thought assumptions, while sparse attention (HySparse) achieves 10x KV cache reduction via oracle guidance. Infrastructure becomes competitive moat: power grid constraints outpace semiconductor growth; Anthropic absorbs grid externalities while most competitors face cost passthrough. 11 sources, 20 articles researched.
